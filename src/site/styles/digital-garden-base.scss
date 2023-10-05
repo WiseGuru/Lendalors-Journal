@@ -312,14 +312,15 @@ ul.task-list {
     background-color: var(--background-secondary);
     color: var(--text-muted);
     overflow-y: auto;
-    width: 250px;
+    width: 50px; //test for 1200px, was 250px
     h1 {
         font-size: 32px !important;
     }
-    @media (max-width: 400px) { //Originally 800px, removing for 1200px display
+    @media (max-width: 800px) {
         h1 {
             display: none;
         }
+
         .search-button {
             width: 100%;
             margin: 2px;
