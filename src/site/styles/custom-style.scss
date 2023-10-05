@@ -313,6 +313,7 @@ ul.task-list {
     color: var(--text-muted);
     overflow-y: auto;
     width: 250px; 
+    max-width: 350px; //added to make the menu a little easier to read maybe
     h1 {
         font-size: 32px !important;
     }
