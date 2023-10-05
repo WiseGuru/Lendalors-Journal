@@ -1,8 +1,8 @@
-body {
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+body {
     overflow-x: hidden;
     --note-icon-1: url(/img/tree-1.svg);
     --note-icon-2: url(/img/tree-2.svg);
@@ -259,7 +259,7 @@ ul.task-list {
     width: fit-content;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     #link-graph {
         border-radius: 0 10px 10px 10px;
     }
@@ -352,7 +352,7 @@ ul.task-list {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    @media (max-width: 1200px) {
+    @media (max-width: 1400px) {
         position: fixed;
     }
 
