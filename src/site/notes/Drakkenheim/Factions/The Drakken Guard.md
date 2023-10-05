@@ -8,7 +8,7 @@ Stale description:
 Symbology: 
 Affiliates: 
 Alliances: 
-Enemies: [[Drakkenheim/Factions/The Queen of Thieves\|The Queen of Thieves]]
+Enemies: [[Drakkenheim/Factions/The Queen's Men\|The Queen's Men]]
 Size: 
 Secrets: 
 Tags: #Faction_Drakk
