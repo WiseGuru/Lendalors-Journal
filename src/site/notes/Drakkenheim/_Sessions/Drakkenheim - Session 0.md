@@ -98,7 +98,7 @@ This land is set in a different dimension than Soland, The Feywild. It is home t
   
 **Overwhelming Debt**. I owe a tremendous debt of 10,000 gold pieces, maybe more. My personal quest is to pay it back by making a fortune in Drakkenheim collecting delerium, plunder, and completing work-for-hire. Meanwhile, I must hide from bounty hunters my creditor send to kill me.  
   
-**Personal Pilgrimage**. As an acolyte of the faith, my personal quest is to visit several holy places in the city and perform a sacred ritual before the remains of the martyrs interred within each: the Cathedral of Saint Vitruvio, Saint Selina’s Monastery, and the Chapel in Castle Drakken. Through these devoted acts I will understand my place in the divine order.
+**Personal Pilgrimage**. As an acolyte of the faith, my personal quest is to visit several holy places in the city and perform a sacred ritual before the remains of the martyrs interred within each: the [[Drakkenheim/Locations/Cathedral of Saint Vitruvio\|Cathedral of Saint Vitruvio]], Saint Selina’s Monastery, and the Chapel in Castle Drakken. Through these devoted acts I will understand my place in the divine order.
 
 
 
@@ -259,7 +259,7 @@ The unlikely alliance between the gnomes and hobgoblins deepened with time. As t
 When Drakkenheim fell into ruin, the gnomes and hobgoblins found themselves united by a shared sense of purpose. They had not forgotten the protection and sanctuary they had provided each other during the dark days of the Feywild. Now, their goal was clear: to help reclaim the city they had come to love and that had offered them a chance at a new life.
 # 4. Factions of Drakkenheim
 1. **[[Drakkenheim/Factions/The Hooded Lanterns\|The Hooded Lanterns]]**: A coalition formed from the remnants of city guards and paladins dedicated to rebuilding Drakkenheim. 
-2. **[[Drakkenheim/Factions/The Queen of Thieves\|The Queen of Thieves]]**: Under the guise of their enigmatic leader, [[Drakkenheim/Factions/The Queen of Thieves\|The Queen of Thieves]], these criminal outlaws aim to gain total control, as they employ a network of loosely connected outlaw gangs to maintain their influence.
+2. **[[Drakkenheim/Factions/The Queen's Men\|The Queen's Men]]**: Under the guise of their enigmatic leader, [[Drakkenheim/Mythological Figures/The Queen of Thieves\|The Queen of Thieves]], these criminal outlaws aim to gain total control, as they employ a network of loosely connected outlaw gangs to maintain their influence.
 3. **[[Drakkenheim/Factions/The Drakken Guard\|The Drakken Guard]]**: This order of paladins has returned to Drakkenheim to cleanse it of Delirium and secure holy relics.  
 4. **[[Drakkenheim/Factions/The Followers of the Falling Flame\|The Followers of The Falling Flame]]**: These devotees believe in the power of Delirium, many talk of some ritual known as the "Sacrement of the Falling Fire" to gain resistance to the effects of Delerium, all while serving their newfound prophet. 
 5. **[[Drakkenheim/Factions/The Amethyst Academy\|The Amethyst Academy]]**: Governed by the enigmatic Eldrick Runeweaver, this institution of magic seeks to harness the potential of Delirium while recovering their former academy.
