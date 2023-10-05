@@ -260,7 +260,7 @@ ul.task-list {
     width: fit-content;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1200px) { //adjusted down from 1400px to fit 1200px view
     #link-graph {
         border-radius: 0 10px 10px 10px;
     }
@@ -307,7 +307,7 @@ ul.task-list {
     padding: 0px; // was 10, changed it to 0
     top: 0px;
     left: 0;
-    position: fixed !important; //added the important flag
+    position: fixed;
     height: 100%;
     background-color: var(--background-secondary);
     color: var(--text-muted);
