@@ -307,7 +307,7 @@ ul.task-list {
     padding: 0px; // was 10, changed it to 0
     top: 0px;
     left: 0;
-    position: fixed;
+    position: fixed !important; //added the important flag
     height: 100%;
     background-color: var(--background-secondary);
     color: var(--text-muted);
