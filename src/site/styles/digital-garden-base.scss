@@ -18,14 +18,14 @@ img {
 }
 
 .content {
-    max-width: 700px;
+    max-width: 600px; //adjusted down from 700px for 1200px view
     margin: auto;
     font-size: 18px;
     line-height: 1.5;
     margin-top: 90px;
     position: relative;
 
-    @media (max-width: 800px) {
+    @media (max-width: 700px) { //adjusted down from 800px for 1200px view
         margin-top: 75px;
     }
 }
@@ -316,7 +316,7 @@ ul.task-list {
     h1 {
         font-size: 32px !important;
     }
-    @media (max-width: 800px) {
+    @media (max-width: 700px) { //adjusted down from 800px for 1200px view
         h1 {
             display: none;
         }
