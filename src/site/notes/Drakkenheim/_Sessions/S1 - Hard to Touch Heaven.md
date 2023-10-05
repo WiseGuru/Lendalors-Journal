@@ -81,7 +81,7 @@ Dark lord in Vetruvia's Church?
 
 
 The Queen's men - Faction
-1. [[Drakkenheim/Factions/The Queen of Thieves\|Red armband]] = Queen's men
+1. [[Drakkenheim/Factions/The Queen's Men\|Red armband]] = Queen's men
 2. Body we find is carrying a scroll case, top nearly falling off
 	1. single sheet inside
 
@@ -91,7 +91,7 @@ The Queen's men - Faction
 
 ## Encounter 1
 Abandoned Watchtower
-Body belongs to a solder of the [[Drakkenheim/Factions/The Queen of Thieves\|Queen's Men]]
+Body belongs to a solder of the [[Drakkenheim/Factions/The Queen's Men\|Queen's Men]]
 1. A corpse surrounded by haze husks
 	1. [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]] and [[Drakkenheim/_Players/Argoth Calamenthe\|Argoth]] use illusion magic to distract the haze husks
 	2. [[Drakkenheim/_Players/Lendalor Thugijak\|Lendalor]] casts fly to search the corpse
