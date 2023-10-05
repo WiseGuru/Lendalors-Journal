@@ -8,7 +8,7 @@ Stale description: Brash, new knight, been a squire for years
 Mannerisms: 
 Affiliates: 
 Alliances: [[Drakkenheim/Factions/The Drakken Guard\|The Drakken Guard]]
-Enemies: [[Drakkenheim/Factions/The Queen of Thieves\|The Queen of Thieves]]
+Enemies: [[Drakkenheim/Factions/The Queen's Men\|The Queen's Men]]
 Stats: 
 Home base: [[Drakkenheim/Locations/Emberwood\|Emberwood]]
 Current Location: [[Drakkenheim/Locations/Chapel of the Sacred Flame\|Chapel of the Sacred Flame]]
