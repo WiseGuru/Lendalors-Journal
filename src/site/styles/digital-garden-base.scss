@@ -316,15 +316,20 @@ ul.task-list {
     h1 {
         font-size: 32px !important;
     }
-    @media (max-width: 700px) { //adjusted down from 800px for 1200px view
+    @media (max-width: 800px) {
         h1 {
             display: none;
         }
-
         .search-button {
             width: 100%;
             margin: 2px;
         }
+    }
+
+    /* Styles for screens between 800 pixels and 1200 pixels */
+    @media (min-width: 801px) and (max-width: 1200px) {
+        /* Any specific styles for this range can go here */
+        /* For now, this query can remain empty if you don't have any specific styles for this range */
     }
 }
 
