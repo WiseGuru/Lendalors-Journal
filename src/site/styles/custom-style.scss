@@ -89,8 +89,8 @@ ul.task-list {
         left: 50%;
         height: calc(100vmin - 100px);
         width: calc(100vmin - 100px);
-        min-height: 350px;
-        min-width: 350px;
+        min-height: 250px;
+        min-width: 250px;
         transform: translate(-50%, -50%);
         z-index: 9999;
         display: block;
@@ -601,8 +601,8 @@ ul.task-list {
     left: 50%;
     height: calc(100vmin - 100px);
     width: calc(100vmin - 100px);
-    min-height: 350px;
-    min-width: 350px;
+    min-height: 250px;
+    min-width: 250px;
     transform: translate(-50%, -50%);
     z-index: 9999;
     display: none;
