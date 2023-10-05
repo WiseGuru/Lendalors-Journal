@@ -354,7 +354,7 @@ ul.task-list {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    @media (max-width: 1400px) {
+    @media (max-width: 1200px) { //modified from 1400px as a test
         position: fixed;
     }
 
