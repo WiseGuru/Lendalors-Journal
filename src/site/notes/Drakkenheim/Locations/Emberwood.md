@@ -15,7 +15,7 @@ Affiliates:
 Local Factions:
 Alliances: Neutral ground
 Notable Locations: Bark and Buzzard (local pub)
-Notable NPCs: [[Drakkenheim/NPCs/Ophelia\|Ophelia]]
+Notable NPCs: [[Drakkenheim/NPCs/High Flame Keeper Ophelia Reed\|High Flame Keeper Ophelia Reed]]
 Stats: 
 Secrets: 
 Tags: #Location_Drakk
