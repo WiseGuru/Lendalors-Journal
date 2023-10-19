@@ -11,6 +11,6 @@ Alliances: [[Drakkenheim/Factions/The Drakken Guard\|The Drakken Guard]]
 Enemies: [[Drakkenheim/Factions/The Queen's Men\|The Queen's Men]]
 Stats: 
 Home base: [[Drakkenheim/Locations/Emberwood\|Emberwood]]
-Current Location: [[Drakkenheim/Locations/Chapel of the Sacred Flame\|Chapel of the Sacred Flame]]
+Current Location: [[Drakkenheim/Locations/Chapel of Saint Brenna\|Chapel of Saint Brenna]]
 Secrets: 
 Tags: #NPC_Drakk 
