@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s2-fight-at-saint-brenna/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s2-fight-at-saint-brenna/","tags":["gardenEntry"]}
 ---
 
 
