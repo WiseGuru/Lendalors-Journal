@@ -25,3 +25,11 @@ Max's Starting Questions:
 			- He smashed the lock over and over again with a brick, but then used his mighty *Flaming Sword* to break open the lock
 		- **Argot** and **Weela** ALLEGEDLY were able to recover the Immovable Rod from the statue of [[Drakkenheim/Mythological Figures/Saint Tarna\|Saint Tarna]]
 			- **Weela** discovered a padlocked grate behind the statue, and unfortunately broke her lockpick, and was unable to get in further
+
+### Loot!
+1. 253 Gold 
+2. Moonstone Gem worth 50gp 
+3. 7 scimitars 
+4. 4 light crossbows 
+5. 40 bolts 
+6. 1 Spell scroll of Illusory Script
