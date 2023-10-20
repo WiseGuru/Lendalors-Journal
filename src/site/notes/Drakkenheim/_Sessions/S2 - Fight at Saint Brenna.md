@@ -2,15 +2,15 @@
 {"dg-publish":true,"permalink":"/drakkenheim/sessions/s2-fight-at-saint-brenna/","tags":["gardenEntry"]}
 ---
 
-
+# S2 - Fight at Saint Brenna
 #Session_Drakk 
-# Questions
+### Questions
 Max's Starting Questions:
 1. Who is [[Drakkenheim/Mythological Figures/Saint Vitruvio\|Saint Vitruvio]]?
 2. What is the reference here to the "Dark lord in Vitruvio's Church"?
 	1. Is the cathedral taken over by something?
 
-# Session Summary
+## Session Summary
 - Blood-thirsty Drakkenguard leave no quarter in their assault against [[Drakkenheim/Factions/The Queen's Men\|The Queen's Thugs]]
 	- Three of the bandits managed to escape. **Who knows what goods they managed to take with them...**
 - Dear [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]] was knocked down, but I was able to call on the ancient forces of my people to restore life to her
