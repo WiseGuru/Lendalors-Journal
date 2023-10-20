@@ -28,7 +28,7 @@
 		5. Magic that can normally have extended ranges are limited to within or outside of the haze cloud
 			1. teleport, divination, etc.
 	2. Delirium and Haze are both the color of "octarine," which is the "the color of imagination", a green-yellow-purple
-		1. ![Delirium-1.png](/img/user/Attachments/Delirium-1.png)
+		1. ![Delirium-1.png|undefined](/img/user/Attachments/Delirium-1.png)
 	3. Little is known about how it came to be
 	4. It has an innate magic, and is valued by collectors (and the academy) that could power your own magic
 		1. However, once it's been drained, it won't recovered
