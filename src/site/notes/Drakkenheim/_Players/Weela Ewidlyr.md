@@ -3,7 +3,7 @@
 ---
 
 
-![Weela Ewidlyr-1.png](/img/user/Attachments/Weela%20Ewidlyr-1.png)
+![Weela Ewidlyr-1.png|undefined](/img/user/Attachments/Weela%20Ewidlyr-1.png)
 - gnome who came from feywilds and dropped out of college
 - Warlock
 - [[Drakkenheim/_Players/Lendalor Thugijak\|Lendalor]]'s local contact
