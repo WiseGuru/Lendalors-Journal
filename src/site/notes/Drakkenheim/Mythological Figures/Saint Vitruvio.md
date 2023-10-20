@@ -3,7 +3,7 @@
 ---
 
 
-Vivid description: 
+Vivid description: Patron Saint of Drakkenheim
 Stale description: 
 Symbology: 
 Affiliates: 
