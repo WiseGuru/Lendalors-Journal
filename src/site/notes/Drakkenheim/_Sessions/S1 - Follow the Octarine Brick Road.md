@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s1-follow-the-octarine-brick-road/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s1-follow-the-octarine-brick-road/","title":"S1: It's Hard to Touch Heaven"}
 ---
 
 
