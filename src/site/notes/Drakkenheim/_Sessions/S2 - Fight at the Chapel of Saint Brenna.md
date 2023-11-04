@@ -23,7 +23,7 @@ Max's Starting Questions:
 		- **Echo** went underground and attempted to gain entry into the gateway, but was delayed by a lock
 			- In the tunnels, he heard the crackle of fire, the whisper of wind, and the cackle of a madman
 			- He smashed the lock over and over again with a brick, but then used his mighty *Flaming Sword* to break open the lock
-		- **Argot** and **Weela** ALLEGEDLY were able to recover the Immovable Rod from the statue of [[Drakkenheim/Mythological Figures/Saint Tarna\|Saint Tarna]]
+		- **Argoth** and **Weela** ALLEGEDLY were able to recover the Immovable Rod from the statue of [[Drakkenheim/Mythological Figures/Saint Tarna\|Saint Tarna]]
 			- **Weela** discovered a padlocked grate behind the statue, and unfortunately broke her lockpick, and was unable to get in further
 
 ### Loot!
