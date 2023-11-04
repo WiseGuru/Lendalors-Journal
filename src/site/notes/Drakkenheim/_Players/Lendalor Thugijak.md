@@ -3,7 +3,7 @@
 ---
 
 
-![Lendalor Thugijak-1.png|undefined](/img/user/Attachments/Lendalor%20Thugijak-1.png)
+![Lendalor Thugijak-1.png](/img/user/Attachments/Lendalor%20Thugijak-1.png)
 
 
 [Lendalor Thugijak Backstory - Max for Drakkenheim - Google Docs](https://docs.google.com/document/d/1CRENCXe_oWdvgqoE1We84slTeVto-IgB8c-FAHtZ97E/edit)
