@@ -1,0 +1,59 @@
+---
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s3-pickled-and-roasted/","tags":["Session_Drakk","gardenEntry"]}
+---
+
+
+# S3 - Pickled and Roasted
+
+## Session Summary
+1. [[Drakkenheim/_Players/Echo Starcaller\|Echo]] was successfully able to enter, but did not get to investigate too much
+2.  [[Drakkenheim/NPCs/Sir Bryce Landry\|Sir Bryce Landry]] was **VERY** observant and called out [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]] for sneaking the immovable rod
+3. Adventurers sent letters to [[Drakkenheim/NPCs/High Flame Keeper Ophelia Reed\|Ophelia]] leading to this ruin
+	1. Our goal is to recover the scepter before it could be stolen by thugs
+	2. A scout came out to inspect the area, and gave them word about the strange word about the rod
+	3. [[Drakkenheim/NPCs/Sir Bryce Landry\|Bryce]] reveals that the Immovable Rod is a key to entering
+4. We descended into the basement, and as a group we decided explore
+	1. We first enter the eastern chamber, where voices could be heard
+	2. We discover several mephits!
+		1. Strange, elemental, winged goblins, that have a tendency to explode when they die
+	3. They breath scalding steam and blow blinding dust
+	4. The magma mephit **ROASTED** [[Drakkenheim/NPCs/Sir Bryce Landry\|Bryce]], and in his own temple!
+		1. Like, really seriously roasted, and blinded too, really bad
+	5. I VALIANTLY joined the fray, sticking a steamy stooge in the stomach!
+	6. The other guards finished their smoke break after what felt like minutes of combat, and decided to saunter in to join the fight
+	7. When all the enemies lay slain, I rushed to [[Drakkenheim/NPCs/Sir Bryce Landry\|Bryce]]'s side and provided him with healing potions, and cured [[Drakkenheim/_Players/Echo Starcaller\|Echo]] of some of his ailments
+5. After the fight, [[Drakkenheim/NPCs/Sir Bryce Landry\|Sir Bryce Landry]] took a seat and told us the story of the [[Drakkenheim/Artifacts and Mythic Items/The Scepter of Saint Vitruvio\|The Scepter of Saint Vitruvio]]
+	1. It's a broken chari leg that was used to beat the crap out of some evil doers
+	2. Not only was it held by [[Drakkenheim/Mythological Figures/Saint Vitruvio\|Saint Vitruvio]], but also by one of the high priestesses of the [[Drakkenheim/Factions/The Faith of the Sacred Flame\|The Faith of the Sacred Flame]]
+	3. It's part of a collection of artifacts called [[Drakkenheim/Artifacts and Mythic Items/The Relics of Saint Vitruvio\|The Relics of Saint Vitruvio]]
+		1. Others include his [[Phylactery of Saint Vitruvio\|Phylactery of Saint Vitruvio]] and [[Saint Vitruvio's Helm of Patron Saints\|Saint Vitruvio's Helm of Patron Saints]]
+6. Sacred Flame Rites
+	1. Sacred Flame treats the remains of dead clerics and paladins as holy relics, believing that they will , and protect them with special candles
+		1. The believe that one day, the souls might require their bodies again, and so choose to preserve them than cremate.
+		2. The candles hold back any evil that would resurrect the dead
+	2. There is a very special ritual of cleansing they perform on the dead, and I took very good notes
+		1. The first shows the body being prepared: one priest washes the body, another wraps it in linens, the last collects the paladin’s weapon, shield, and helm.
+		2. The second mural shows two priests placing the body on a tomb slab, while the third places a holy symbol in its hands and a gemstone upon each eyelid. 
+		3. In the third mural, the priests anoint the body with holy water or sacred oils. 
+		4. In the fourth mural, the priests place and light the candles around the body. 
+		5. The final mural shows one priest reading from a scroll while the others join hands and recite a hymn while standing beside the body.
+7. We choose to descend the southern staircase to enter the sub-basement
+	1. We enter a heigh-ceilinged crypt, with skeletons of the prepared dead lying on their crypts
+		1. It doesn't look like all the preservation techniques of the Sacred Flame are super effective... I think a salt brine would be better.
+	2. We follow down a passageway, and encounter a completely smooth stone door
+		1. One by one, we each investigate the door and discover that this is... a door
+		2. [[Drakkenheim/_Players/Argoth Calamenthe\|Argoth]], however, was more clever and observed that the door was linked to the rest of the immovable rod system
+		3. Bryce helps us to lift the gate
+	3. We find a special grave-site, for [[Drakkenheim/Mythological Figures/Saint Brenna\|Saint Brenna]] herself
+		1. However, it is empty, with several of the candles snuffed by water which had dripped from above
+		2. There are footprints the wandered the chamber and passed beyond a sealed stone door
+			1. From within, we hear Bryce screaming...
+8. We run back to the main chambers, reset the door mechanism, and descend to find [[Drakkenheim/NPCs/Sir Bryce Landry\|Bryce]] locked in combat with the desecrated remains of [[Drakkenheim/Mythological Figures/Saint Brenna\|Saint Brenna]]
+	1. they are in a small chamber with the preserved remains of 6 holy warriors
+		1. Two are holding magical artifacts; a glowing celestial greatsword, a shield and helm
+	2. Two of Bryce's soldiers are dead, one is alive
+
+
+
+
+NOTE TO SELF: Must write the song "Go down fleshy"
