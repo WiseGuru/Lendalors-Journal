@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/saint-brenna/"}
 ---
 
-Vivid description: 
+Vivid description: Probably once very nice; now very, very dead.
 Stale description: 
 Symbology: 
 Affiliates: 
