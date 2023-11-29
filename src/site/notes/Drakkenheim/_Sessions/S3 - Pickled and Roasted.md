@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s3-pickled-and-roasted/","tags":["Session_Drakk","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s3-pickled-and-roasted/","tags":["Session_Drakk","gardenEntry"]}
 ---
 
 
@@ -67,4 +67,4 @@
 
 
 
-NOTE TO SELF: Must write the song "Go down fleshy"
+NOTE TO SELF: Must [[Drakkenheim/Songs and Stories/Path to Mephistopheles\|write a song with "Go down fleshy" in it...]]
