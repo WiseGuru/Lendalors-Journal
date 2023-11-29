@@ -6,7 +6,7 @@ Original song written by [[Drakkenheim/_Players/Lendalor Thugijak\|Lendalor]], f
 
 Realized by [Erik Akopyan.](https://www.fiverr.com/erikakopyan?source=order_page_user_message_link)
 
-<iframe src="https://drive.google.com/file/d/1xySbXbLCtWHvt-60c_8tZWqPDqKHXqYm/preview" width=480></iframe>
+<iframe style="background: #2F383E;" src="https://drive.google.com/file/d/1xySbXbLCtWHvt-60c_8tZWqPDqKHXqYm/preview" width=480></iframe>
 
 Through ruined temples, dank and musty
 You shoulder on searching for your prize
