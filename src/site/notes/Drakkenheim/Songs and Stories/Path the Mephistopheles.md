@@ -4,6 +4,8 @@
 
 Original song from Lendalor, from [[Drakkenheim/_Sessions/S3 - Pickled and Roasted\|S3 - Pickled and Roasted]]
 
+<iframe src="https://drive.google.com/file/d/1xySbXbLCtWHvt-60c_8tZWqPDqKHXqYm/preview" width="640" height="480" allow="autoplay"></iframe>
+
 Through ruined temples, dank and musty
 You shoulder on searching for your prize
 Cross rotten pews, halls dark and dusty
