@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s3-pickled-and-roasted/","tags":["Session_Drakk","gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s3-pickled-and-roasted/","tags":["Session_Drakk","gardenEntry","gardenEntry"]}
 ---
 
 
