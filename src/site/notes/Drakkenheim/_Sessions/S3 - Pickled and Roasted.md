@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s3-pickled-and-roasted/","tags":["Session_Drakk","gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s3-pickled-and-roasted/","tags":["Session_Drakk"]}
 ---
 
-
-# S3 - Pickled and Roasted
 
 ## Session Summary
 1. Wrapping up last time...
