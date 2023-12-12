@@ -6,7 +6,7 @@
 Vivid description: 
 Stale description: 
 Mannerisms: 
-Affiliates: [[Drakkenheim/Factions/The Drakken Guard\|The Drakken Guard]]
+Affiliates: [[Drakkenheim/Factions/The Drakkenguard\|The Drakkenguard]]
 Alliances: [[Drakkenheim/_Players/Weela Ewidlyr\|Weela Ewidlyr]]
 Enemies: 
 Stats: 
