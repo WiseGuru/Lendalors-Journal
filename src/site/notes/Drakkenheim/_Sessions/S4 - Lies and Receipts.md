@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s4-lies-and-receipts/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s4-lies-and-receipts/"}
 ---
-
-# S4 - Lies and Receipts
 
 ## Session Summary
 1. Where were we...
