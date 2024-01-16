@@ -11,7 +11,7 @@
 
 ## Current Missions
 
-| Name                             | Who Asked                               | First Session                 | Completed Session | Notes                                                                                                   |
+| Name                             | Who Asked                               | First Session                 | Resolved Session | Notes                                                                                                   |
 | -------------------------------- | --------------------------------------- | ----------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------- |
 | Collect The Crystal              | [[Drakkenheim/NPCs/Rehani Miblepeble\|Rehani Miblepeble]]                   | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]] |                   | The crystal's in the [[Drakkenheim/Locations/Rat's Nest Tavern\|Rat's Nest Tavern]], rumored to be worth 1,000 GP, but she's willing to pay 1250 |
 | Rescue [[Drakkenheim/NPCs/Petra Lang\|Petra Lang]]            | [[Drakkenheim/NPCs/Ansem Lang\|Ansem Lang]], [[Drakkenheim/Factions/The Hooded Lanterns\|The Hooded Lanterns]] | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]] |                   | [[Drakkenheim/NPCs/Petra Lang\|Petra]] was captured by [[Drakkenheim/Creatures/Ratlings\|Ratlings]] and has been taken to the [[Drakkenheim/Locations/Rat's Nest Tavern\|Rat's Nest Tavern]]      |
@@ -59,8 +59,3 @@
 		1. It appears to be the same piece from the crater above, and so with both [[Drakkenheim/NPCs/Petra Lang\|Petra]] and the crystal, we should be able to leave this cave with all boxes checked.
 	2. We find a... [[Drakkenheim/NPCs/Dolgruth\|Dolgruth]]?
 		1. It's a talking skull with a posh accent and delirium slivers for eyes, and appeared a little... unsettled when it saw there were more of us than just Echo.
-
-
-### Insults for Ratlings
-- Even your mate wouldn't care if you went missing
-- Your wrinkled whiskers couldn't find the caves walls even if you 
