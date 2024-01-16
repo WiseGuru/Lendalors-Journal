@@ -63,4 +63,4 @@
 
 ### Insults for Ratlings
 - Even your mate wouldn't care if you went missing
-- Your wrinkled whiskers 
+- Your wrinkled whiskers couldn't find the caves walls even if you 
