@@ -4,24 +4,7 @@
 
 # S6 - Petra-fied
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/drakkenheim/sessions/missions/#current-missions" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## Current Missions
-
-| Name                             | Who Asked                               | First Session                 | Resolved Session | Notes                                                                                                   |
-| -------------------------------- | --------------------------------------- | ----------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------- |
-| Collect The Crystal              | [[Drakkenheim/NPCs/Rehani Miblepeble\|Rehani Miblepeble]]                   | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]] |                   | The crystal's in the [[Drakkenheim/Locations/Rat's Nest Tavern\|Rat's Nest Tavern]], rumored to be worth 1,000 GP, but she's willing to pay 1250 |
-| Rescue [[Drakkenheim/NPCs/Petra Lang\|Petra Lang]]            | [[Drakkenheim/NPCs/Ansem Lang\|Ansem Lang]], [[Drakkenheim/Factions/The Hooded Lanterns\|The Hooded Lanterns]] | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]] |                   | [[Drakkenheim/NPCs/Petra Lang\|Petra]] was captured by [[Drakkenheim/Creatures/Ratlings\|Ratlings]] and has been taken to the [[Drakkenheim/Locations/Rat's Nest Tavern\|Rat's Nest Tavern]]      |
-| Find out what happened to [[Drakkenheim/NPCs/Ramsey\|Ramsey]] |                                         |                               |                   |                                                                                                         |
-| De-Program [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]]                                 |                                         |                               |                   |                                                                                                         |
-
-
-
-</div></div>
-
+[[Drakkenheim/_Sessions/Missions\|Our current missions.]]
 
 ## Session Summary
 1. [[Drakkenheim/NPCs/Pixie Stick\|Pixie Stick]]'s Ferry is the only reliable way to cross the [[Drakkenheim/Locations/River Drann\|River Drann]]
