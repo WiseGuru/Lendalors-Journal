@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s5-chillin-in-emberwood/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s5-chillin-in-emberwood/"}
 ---
 
-# S5 - Chillin' in Emberwood
 ## Session Summary
 
 In the town center, around the boarded up well, is a "Caravan Court" 
@@ -29,7 +28,7 @@ Off to the side, I spot a small stall with just a man and a chest
 I asked around to learn about the various groups, and learned about the thugs whose cache we raided in [[Drakkenheim/_Sessions/S1 - Follow the Octarine Brick Road\|S1]]
 - [[Drakkenheim/NPCs/Blackjack Mel\|Blackjack Mel]] is a member of [[Drakkenheim/Factions/The Queen's Men\|The Queen's Men]], and he hangs around the [[Drakkenheim/Locations/Emberwood\|Bark and Buzzard]]
 
-[[Drakkenheim/_Players/Argoth Calamenthe\|Argoth]] dipped out of view, and later we found out he checked in to his home at [[Drakkenheim/Locations/Emberwood\|Eventide Manner]].
+[[Drakkenheim/_Players/Argoth Calamenthe\|Argoth]] dipped out of view, and later we found out he checked in to his home at [[Drakkenheim/Locations/Emberwood\|Eventide Manner]], and we meet the delightful [[Drakkenheim/NPCs/Lukrum Stormrock\|Lukrum]]
 
 [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]] went to speak with her parents, who are very cute and sweet. Also, [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]] has a brother named Kevin who's been brainwashed by thugs?!?
 
