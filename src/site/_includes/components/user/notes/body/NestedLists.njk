@@ -1,0 +1,42 @@
+// Nunjucks Macro to process ordered lists
+{% macro processList(ol) %}
+  {% set indentLevel = getIndentLevel(ol) %}
+  {% set listStyleType = getListStyleType(indentLevel) %}
+  
+  <ol style="list-style-type: {{ listStyleType }};">
+    {% for li in ol %}
+      <li>{{ li.trim() }}</li>
+    {% endfor %}
+  </ol>
+{% endmacro %}
+
+// Function to determine the indent level of the current list by counting the number of ancestor 'ol' elements
+{% macro getIndentLevel(ol) %}
+  {% set indentLevel = 0 %}
+  {% set parent = ol.parent %}
+  {% while parent %}
+    {% if parent.tagName === "OL" %}
+      {% set indentLevel = indentLevel + 1 %}
+    {% endif %}
+    {% set parent = parent.parent %}
+  {% endwhile %}
+  return indentLevel;
+{% endmacro %}
+
+// Function to iterate through the following list of styles, cycling back to the top after reaching the bottom.
+// Additional list styles can be found at https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type
+{% macro getListStyleType(indentLevel) %}
+  {% set defaultStyles = [
+    "decimal",
+    "lower-alpha",
+    "lower-roman",
+    "upper-alpha",
+    "upper-roman",
+    "decimal-leading-zero",
+    "disc",
+    "circle",
+    "square"
+  ] %}
+  {% set defaultStyleIndex = indentLevel % defaultStyles.length %}
+  return defaultStyles[defaultStyleIndex];
+{% endmacro %}
