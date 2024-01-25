@@ -4,7 +4,9 @@
 
 [[Drakkenheim/NPCs/Lukrum Stormrock\|Lukrum Stormrock]] first told [[Drakkenheim/_Players/Lendalor Thugijak\|me]] the story of the haunting of Eventide Manor, and wanted to give my own spin on the tale. 
 
-In broad strokes, an elven woman named Elwyn was scorned or cheated on by her lover, and she murdered him, and now haunts the mansion, killing any who enter. Those who survive often have their hair all turned white, and 
+In broad strokes, an elven woman named Elwyn was scorned or cheated on by her lover, and she murdered him, and now haunts the mansion, killing any who enter. Those who survive often have their hair all turned white.
+
+[[Drakkenheim/NPCs/Lukrum Stormrock\|Lukrum]] said he sometimes changes the name depending on the audience, but for this version I'm going with Kieran, a strong elven name that suits the story, but will alternate his name with distant relatives of locals as I see fit.
 
 Gather round friends and let me tell you a story
 Put the children abed, for it gets quite gory
