@@ -11,13 +11,13 @@ In broad strokes, an elven woman named Elwyn was scorned or cheated on by her lo
 Gather round friends and let me tell you a story
 Put the children abed, for it gets quite gory
 It begins with love and ends with death;
-It's a warning to all, so take deep breath
+It's a warning to all, so take a deep breath
 and hear of the haunting Eventide Manor
 
 Our tale begins with lovers two,
 Hearts pierced by cupid's arrows, true
-Kieran Eventide, mage most powerful
-And Elwyn, a cleric most faithful
+Kieran Eventide, a mage most powerful
+And Elwyn, sweet Elwyn, a cleric most faithful
 Together, forever, in Eventide Manor
 
 Happily together they passed many years
@@ -44,17 +44,17 @@ They hanged her in front to look on her work
 But even in death, her duty she did not shirk
 The dead shall keep Eventide Manor
 
-Now Elwyn walks those halls most dread
-Thinking those she enter have tainted her bed
+Elwyn now walks those halls most dread
+Thinking those who enter have tainted her bed
 She butchers and slays all invaders
-None who enter ever evade her
+None who enter will ever evade her
 The dead shall keep Eventide Manor
 
 But for those with hearts set on riches
 Who think love and remorse are just for bitches
 They might be interested to know of the treasure
 Accumulated over years of Elven measure^[Meaning years of elven life.]
-Buried deep beneath Elventide Manor
+Hidden deep within Elventide Manor
 
 Gems and jewels, gold and platinum
 Arcane artifacts and magic factotum
@@ -62,14 +62,14 @@ If your heart is of stone, cruel and cold
 Perhaps you're enticed, clever and bold
 You're not afraid of Eventide Manor
 
-But for those who value their life
+But for those who love, or value their life
 And perhaps know of struggle and strife
 They will leave Elwyn to mourn her fate
 And think better than to take the bait
 They should stay away from Eventide Manor
 
-So that is my story, vicious and true
-But shake off your shivers and don't let it stew
+That is my story, vicious and true
+Shake off your shivers and don't let'em stew
 You're safe and sound with nothing to fear
 So finish your ale and be of good cheer
 But never forget the haunting of Eventide Manor
