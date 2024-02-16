@@ -40,6 +40,6 @@ Once the day was done, we all had a slumber party at [[Drakkenheim/Locations/Emb
 We embarked on our quest to rescue [[Drakkenheim/NPCs/Petra Lang\|Petra Lang]]!
 - We first encountered a female gnome member of [[Drakkenheim/Factions/The Amethyst Academy\|The Amethyst Academy]], and after some cautious exchanges of the Message spell, we discovered she is my old friend [[Drakkenheim/NPCs/Rehani Miblepebble\|Rehani Miblepebble]]!
 	- Always a much better student than me, no doubt she's doing well in [[Drakkenheim/Factions/The Amethyst Academy\|The Amethyst Academy]].
-	- When she learned we're headed to the [[Drakkenheim/Locations/Rat's Nest Tavern\|Rat's Nest Tavern]], she offered us 1200GP for a crystal of [[Drakkenheim/Artifacts and Mythic Items/Delirium\|Delirium]]that's rumored to be there.
+	- When she learned we're headed to the [[Drakkenheim/Locations/Landmarks/Rat's Nest Tavern\|Rat's Nest Tavern]], she offered us 1200GP for a crystal of [[Drakkenheim/Artifacts and Mythic Items/Delirium\|Delirium]]that's rumored to be there.
 	- She's staying at [[Drakkenheim/Locations/Emberwood\|The Red Line Inn]], and we can meet up with her there to trade.
 - [[Drakkenheim/_Players/Echo Starcaller\|Echo]] observes this crazy balista-looking thing, and it's a crazy-dangerous gnome contraption; an [[Drakkenheim/Artifacts and Mythic Items/Oaken Bolter\|Oaken Bolter]]
