@@ -4,9 +4,12 @@
 
 #Session_Drakk 
 
-# The Drakkenheim history (Max notes)
 
-## History
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/drakkenheim/locations/drakkenheim/#the-history-of-drakkenheim-lendalor-s-notes" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## The History of Drakkenheim (Lendalor's Notes)
 1. Delmarva
 2. Originally setup as a place of healing
 	1. either you died or you were healed; either way, problem solved.
@@ -33,6 +36,10 @@
 	4. It has an innate magic, and is valued by collectors (and the academy) that could power your own magic
 		1. However, once it's been drained, it won't recovered
 
+
+</div></div>
+
+
 ## Emergency of the Gnomes and Hobgoblins
 1. Gnomes came from the feywild and emerged in Drakkenheim
 	1. They were caught in a war in the feywilds, and their captors (The glowborn ((aasimar))/dusklords ((tieflings))) relentlessly hunt gnomes who have escaped
@@ -58,21 +65,21 @@
 
 This land is set in a different dimension than Soland, The Feywild. It is home to a number of creatures, including gnomes, Glowborne, and Dusklords, who are in a constant war with one another. The two main source of the war is between The Luminous Court and The Eventide Empire.
 
-    **Aasimar**: Known as Glowborne in the Feywild, these people are typically very physically beautiful. They mostly resemble humans but have various characteristics of more angelic figures. Glowing skin and/hair, halos, starkly colored hair, metallic colored eyes, etc. Glowborne who come to Soland often find jobs as models or diplomats, but stereotypes persist of them being master manipulators. The Luminous Court, their home kingdom, uses underhanded tactics and subterfuge to fight against The Eventide Empire. The Glowborne are more known for being casters (sorcerer, bard) rather than warriors, but the fighters among them usually do incorporate magic into their combat (eldritch knight, paladin, warlock).
+   **Aasimar**: Known as Glowborne in the Feywild, these people are typically very physically beautiful. They mostly resemble humans but have various characteristics of more angelic figures. Glowing skin and/hair, halos, starkly colored hair, metallic colored eyes, etc. Glowborne who come to Soland often find jobs as models or diplomats, but stereotypes persist of them being master manipulators. The Luminous Court, their home kingdom, uses underhanded tactics and subterfuge to fight against The Eventide Empire. The Glowborne are more known for being casters (sorcerer, bard) rather than warriors, but the fighters among them usually do incorporate magic into their combat (eldritch knight, paladin, warlock).
 
   
 
-    **Tiefling**: Known as Dusklords in the Feywild, these people are more intimidating than their counterparts. They resemble humans but with more drastic changes. Horns, tails, solid eyes, and sometimes scaly skin, these can also resemble the demons and devils of Soland. Dusklords in Soland are a little more rare in larger cities, as they are more typically found in rougher lands where mercenary work can be found. The Eventide Empire is more strict with who it lets in and out of its kingdom, often setting bounties for those that escape their grasp. The Dusklords are more known for being warriors than casters (fighter, ranger, barbarian) rather than casters, but they still seek to be masters of whatever they pursue, even if it is magic (Wizard, cleric, paladin)
+   **Tiefling**: Known as Dusklords in the Feywild, these people are more intimidating than their counterparts. They resemble humans but with more drastic changes. Horns, tails, solid eyes, and sometimes scaly skin, these can also resemble the demons and devils of Soland. Dusklords in Soland are a little more rare in larger cities, as they are more typically found in rougher lands where mercenary work can be found. The Eventide Empire is more strict with who it lets in and out of its kingdom, often setting bounties for those that escape their grasp. The Dusklords are more known for being warriors than casters (fighter, ranger, barbarian) rather than casters, but they still seek to be masters of whatever they pursue, even if it is magic (Wizard, cleric, paladin)
 
   
 
-    **Gnome**: Gnomes are given many names by the other two races of the Feywild, but the one they typically agree on is Glims. Gnomes, or Glims, were once the self proclaimed "Kings" of the Feywild, and kept the ancestors of Dusklords and Glowbornes as slaves. A few hundred years ago, however, they were toppled by an uprising that was led by two figures who would become known as The Mothers, who split their followers into Glowborne and Dusklords, starting the two kingdoms. Ever since, the gnomes have been captured and forced into slavery. Gnomes had found a way out of the Feywild and sought refuge in Soland in Delmarva, claiming it as their new homeland for all refugees. Bounties are still put out on all those that escape the Feywild, however, and many always seem to find themselves dragged back to the Feywild as a result.
+   **Gnome**: Gnomes are given many names by the other two races of the Feywild, but the one they typically agree on is Glims. Gnomes, or Glims, were once the self proclaimed "Kings" of the Feywild, and kept the ancestors of Dusklords and Glowbornes as slaves. A few hundred years ago, however, they were toppled by an uprising that was led by two figures who would become known as The Mothers, who split their followers into Glowborne and Dusklords, starting the two kingdoms. Ever since, the gnomes have been captured and forced into slavery. Gnomes had found a way out of the Feywild and sought refuge in Soland in Delmarva, claiming it as their new homeland for all refugees. Bounties are still put out on all those that escape the Feywild, however, and many always seem to find themselves dragged back to the Feywild as a result.
 
   
 
 **Hobgoblins Origin**:
 
-    Hobgoblins are a brand new race to Soland, and very little is known about them other than they are ruthless and cunning natural fighters.. Rumors swirl constantly about how they came about, the older ones showing scars that could only be made by surgery. They made Delmarva their home after becoming known to the world. With the destruction of Drakkenhiem, however, they seemed to have rallied together to take back the land that they tried to call home.
+   Hobgoblins are a brand new race to Soland, and very little is known about them other than they are ruthless and cunning natural fighters.. Rumors swirl constantly about how they came about, the older ones showing scars that could only be made by surgery. They made Delmarva their home after becoming known to the world. With the destruction of Drakkenhiem, however, they seemed to have rallied together to take back the land that they tried to call home.
 
   
 
@@ -204,6 +211,12 @@ Semur - Summer (Symbol is a Sun)
 
 In the annals of Delmarva's storied past, no city stands as a more striking testament to both the heights of mortal ambition and the depths of catastrophic despair than Drakkenheim. Once the proud capital of Delmarva, Drakkenheim's history is a tapestry woven with threads of magic, ambition, and the inexorable march of time.
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/drakkenheim/locations/drakkenheim/#more-correct-history-of-drakkenheim" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## More Correct History of Drakkenheim
 ### **The Rise of Drakkenheim**
 
 In the early days of Delmarva's exploration, this rugged continent was home to many dangers, but it was also a land of great magic. Ancient forests teemed with mystical creatures, and arcane energies flowed like rivers. Delmarva was a place of both healing and peril, where those seeking its magical bounty were as likely to be mended as maimed by the land's otherworldly forces.
@@ -234,29 +247,10 @@ Fifteen years after the catastrophe, Drakkenheim is a city in ruins, its former 
 
   
 
-## **The Gnomes and Hobgoblins: An Unlikely Alliance**
 
-The emergence of the gnomes from the Feywild and their alliance with the enigmatic hobgoblins five years before the fall of Drakkenheim marked a significant cultural shift in the city's history.
+</div></div>
 
-### 
 
-### **Gnomes' Exodus from the Feywild**
-
-For years, the gnomes of the Feywild had been caught in the throes of a brutal war. Their once-vibrant homeland, known for its whimsical beauty and ethereal landscapes, had become a battleground where chaos reigned. Their feywild captors, known as the Glowborne and Dusklords, relentlessly pursued the gnomes, seeking to capture and return them to the tumultuous and dangerous Feywild.
-
-The gnomes yearned for freedom, a respite from the ceaseless conflict that had plagued their existence. They saw in Drakkenheim a glimmer of hope, a sanctuary where they could escape the clutches of their pursuers and build a new life.
-
-### **The Hobgoblins' Enigmatic Arrival**
-
-Simultaneously, a mysterious race known as the hobgoblins appeared on the scene. Little was known about their origins, and they brought an air of enigma with them. What was clear, however, was their formidable strength and unwavering tenacity. They were fierce warriors, disciplined and resolute.
-
-The hobgoblins, for reasons known only to them, took it upon themselves to protect the gnomes from the relentless pursuit of the Glowborne and Dusklords. They became a shield against the darkness of the Feywild, using their might and cunning to thwart the fey bounty hunters' attempts to capture the gnomes.
-
-### **A Shared Goal in Drakkenheim**
-
-The unlikely alliance between the gnomes and hobgoblins deepened with time. As the gnomes found safety and refuge in Drakkenheim, they began to adapt to their new home, contributing their own unique skills and talents to the city's diverse tapestry. The hobgoblins, too, integrated into the city, using it as a place to adjust to a world that was foreign to them.
-
-When Drakkenheim fell into ruin, the gnomes and hobgoblins found themselves united by a shared sense of purpose. They had not forgotten the protection and sanctuary they had provided each other during the dark days of the Feywild. Now, their goal was clear: to help reclaim the city they had come to love and that had offered them a chance at a new life.
 # 4. Factions of Drakkenheim
 1. **[[Drakkenheim/Factions/The Hooded Lanterns\|The Hooded Lanterns]]**: A coalition formed from the remnants of city guards and paladins dedicated to rebuilding Drakkenheim. 
 2. **[[Drakkenheim/Factions/The Queen's Men\|The Queen's Men]]**: Under the guise of their enigmatic leader, [[Drakkenheim/Mythological Figures/The Queen of Thieves\|The Queen of Thieves]], these criminal outlaws aim to gain total control, as they employ a network of loosely connected outlaw gangs to maintain their influence.
