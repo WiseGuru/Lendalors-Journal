@@ -11,6 +11,7 @@ Local Factions:
 Alliances: 
 Notable Locations: 
 Notable NPCs: 
+- [[Drakkenheim/NPCs/Pixie Stick\|Pixie Stick]]
 Stats: 
 Secrets: 
 Tags: #Location_Drakk 
