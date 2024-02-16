@@ -7,6 +7,7 @@ Vivid description: This order of paladins has returned to Drakkenheim to cleanse
 Stale description: 
 Symbology: 
 Affiliates: 
+- The Drakkenheim Legion of *The Drakken Guard* are commanded by [[Drakkenheim/NPCs/Theodore Marshall\|Theodore Marshall]]
 Alliances: 
 Enemies: [[Drakkenheim/Factions/The Queen's Men\|The Queen's Men]]
 Size: 
