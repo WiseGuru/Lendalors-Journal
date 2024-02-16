@@ -21,7 +21,7 @@
 		1. We have been tasked with inspecting their offering's to the spiders
 		2. The *[[Drakkenheim/NPCs/Rat Prince\|Rat Prince]]* is a crude and grovely creature, and thinks primarily of food, but holds great reverence for the rat gods.
 	3. We snake away their things, complete our inspection, and then back-track our way out of the sewers and into the fresh air of [[Drakkenheim/Locations/Landmarks/The Sprawl\|The Sprawl]]
-3. We take [[Drakkenheim/NPCs/Petra Lang\|Petra]] to Shepherd's Gate
+3. We take [[Drakkenheim/NPCs/Petra Lang\|Petra]] to [[Drakkenheim/Locations/Landmarks/Shepherds Gate\|Shepherd's Gate]]
 	1. She puts in a good word for us with [[Drakkenheim/NPCs/Elias Drexel\|Elias Drexel]], head of [[Drakkenheim/Factions/The Hooded Lanterns\|The Hooded Lanterns]]
 	2. She negotiates to give us 2x50' Hemp Rope, Potion of Heroism, 3x Healing Potion (2d4+2)
 4. After this, we're heading to [[Drakkenheim/Factions/The Drakken Guard\|The Drakken Guard]], and then returning to [[Drakkenheim/Locations/Emberwood\|Emberwood]]!
