@@ -23,7 +23,7 @@
 			1. The large rat we passed earlier wears a grown, has [[Drakkenheim/Artifacts and Mythic Items/Delirium\|Delirium]] for teeth, and panics, claiming there must be 10 or more attackers
 			2. He kills the wounded rat, and they all run away
 		2. Meanwhile, [[Drakkenheim/_Players/Argoth Calamenthe\|Argoth]] summons a big scary illusion, and discovers [[Drakkenheim/NPCs/Petra Lang\|Petra Lang]]!
-			1. She reveals they were searching for the same crystal we want to sell to [[Drakkenheim/NPCs/Rehani Miblepeble\|Rehani Miblepeble]], and was a little upset at her brother [[Drakkenheim/NPCs/Ansem Lang\|Ansem Lang]] that he got us to come and rescue her.
+			1. She reveals they were searching for the same crystal we want to sell to [[Drakkenheim/NPCs/Rehani Miblepebble\|Rehani Miblepebble]], and was a little upset at her brother [[Drakkenheim/NPCs/Ansem Lang\|Ansem Lang]] that he got us to come and rescue her.
 4. Grab the scrolls
 	1. Bane, Faerie Fire, and Inflict Wounds, 4 slivers of [[Drakkenheim/Artifacts and Mythic Items/Delirium\|Delirium]], and 2 fragments
 5. We move forward, and find another rat's nest, and with an albino [[Drakkenheim/Creatures/Ratlings\|Ratling]] warlock as well - Ambush!
