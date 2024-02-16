@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s6-petra-fied/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s6-petra-fied/"}
 ---
-
-# S6 - Petra-fied
-
-[[Drakkenheim/_Sessions/Missions\|Our current missions.]]
 
 ## Session Summary
 1. [[Drakkenheim/NPCs/Pixie Stick\|Pixie Stick]]'s Ferry is the only reliable way to cross the [[Drakkenheim/Locations/River Drann\|River Drann]]
@@ -21,7 +17,7 @@
 	1. As we go through the tunnel, [It Is Pitch Dark](https://www.youtube.com/watch?v=4nigRT2KmCE), but we're all able to see in the darkness.
 	2. [[Drakkenheim/_Players/Argoth Calamenthe\|Argoth]] hears voices, and around a corner, spies a group of [[Drakkenheim/Creatures/Ratlings\|Ratlings]]
 		1. There is a large one, rubbing his front paws^[Paws? Hands?], and talking to himself, and telling stories of his adventures
-	3. We sneak past them, and in another chamber, several rats are kneeling around a glowing effigy of an obese, demonic rat. They are chanting, and burning a foul, acrid incense, mumbling a garbled pigin-common
+	3. We sneak past them, and in another chamber, several rats are kneeling around a glowing effigy of an obese, demonic rat. They are chanting, and burning a foul, acrid incense, mumbling a garbled pidgin-common
 	4. As we are sneaking past, [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]] trips up, and all the rats scatter!
 		1. We manage to kill one and wound two others, but [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]] and [[Drakkenheim/_Players/Echo Starcaller\|Echo]] give chase
 			1. The large rat we passed earlier wears a grown, has [[Drakkenheim/Artifacts and Mythic Items/Delirium\|Delirium]] for teeth, and panics, claiming there must be 10 or more attackers
@@ -38,7 +34,7 @@
 	5. The Ratling Warlock disapparated, and then we spread out to mop-up the rest
 	6. [[Drakkenheim/_Players/Lendalor Thugijak\|I]] did some killing!
 6. Once the enemies were cleared, we investigated the chamber
-	1. There's a [[Drakkenheim/Artifacts and Mythic Items/Delirium\|Delirium]] crystal in a silver-stone, placed in the center of the room on a stone pedistal.
+	1. There's a [[Drakkenheim/Artifacts and Mythic Items/Delirium\|Delirium]] crystal in a silver-stone, placed in the center of the room on a stone pedestal.
 		1. It appears to be the same piece from the crater above, and so with both [[Drakkenheim/NPCs/Petra Lang\|Petra]] and the crystal, we should be able to leave this cave with all boxes checked.
-	2. We find a... [[Drakkenheim/NPCs/Dolgruth\|Dolgruth]]?
+	2. We find a... [[Drakkenheim/NPCs/Dolgroth\|Dolgroth]]?
 		1. It's a talking skull with a posh accent and delirium slivers for eyes, and appeared a little... unsettled when it saw there were more of us than just Echo.
