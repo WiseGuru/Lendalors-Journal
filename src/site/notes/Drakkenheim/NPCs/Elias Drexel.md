@@ -3,7 +3,7 @@
 ---
 
 Vivid description: 
-- *Lord Command Elias Drexel* is the leader of [[Drakkenheim/Factions/The Hooded Lanterns\|The Hooded Lanterns]]
+- *Lord Commander Elias Drexel* is the leader of [[Drakkenheim/Factions/The Hooded Lanterns\|The Hooded Lanterns]]
 Stale description: 
 Mannerisms: 
 Affiliates: 
