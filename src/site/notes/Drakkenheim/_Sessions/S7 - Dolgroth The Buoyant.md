@@ -17,7 +17,7 @@
 	5. While we adventure, I recount the story of [[Drakkenheim/Songs and Stories/Elwyn of Eventide Manor\|Elwyn of Eventide Manor]]
 2. We disentangle ourselves from the Rat Prince
 	1. We sneak up and discover the rats laying in ambush
-	2. In a moment of inspiration, [[Drakkenheim/_Players/Lendalor Thugijak\|I]] (with no small help from [[Drakkenheim/NPCs/Dolgroth\|Dolgroth]] convince them that we are emissaries of their god!
+	2. In a moment of inspiration, [[Drakkenheim/_Players/Lendalor Thugijak\|I]] (with no small help from [[Drakkenheim/NPCs/Dolgroth\|Dolgroth]]) convince them that we are emissaries of their god!
 	3. We snake away their things, complete our inspection, and then back-track our way out of the sewers and into the fresh air of *The Sprawl*
 3. We take [[Drakkenheim/NPCs/Petra Lang\|Petra]] to Shepherd's Gate
 	1. She puts in a good word for us with [[Drakkenheim/NPCs/Elias Drexel\|Elias Drexel]], head of [[Drakkenheim/Factions/The Hooded Lanterns\|The Hooded Lanterns]]
