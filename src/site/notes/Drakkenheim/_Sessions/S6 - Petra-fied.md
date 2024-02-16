@@ -5,7 +5,7 @@
 ## Session Summary
 1. [[Drakkenheim/NPCs/Pixie Stick\|Pixie Stick]]'s Ferry is the only reliable way to cross the [[Drakkenheim/Locations/River Drann\|River Drann]]
 	1. Our clever guide [[Drakkenheim/_Players/Argoth Calamenthe\|Argoth]] reveals that he accepts coin-shaped objects, and pulls from his a coat a roll of buttons that he keeps around for [[Drakkenheim/NPCs/Lukrum Stormrock\|Lukrum's]] enchanted eyepatch
-2. We make good time to the [[Drakkenheim/Locations/Rat's Nest Tavern\|Rat's Nest Tavern]], and when we arrive, the building is in rough shape
+2. We make good time to the [[Drakkenheim/Locations/Landmarks/Rat's Nest Tavern\|Rat's Nest Tavern]], and when we arrive, the building is in rough shape
 	1. Walls knocked, the street strewn with debris, and the original sign with a fat rat is across the street
 	2. [[Drakkenheim/_Players/Echo Starcaller\|Echo]] observes that it's been turned to stone
 		1. It looks like the tavern exploded, and through the process was turned to stone
