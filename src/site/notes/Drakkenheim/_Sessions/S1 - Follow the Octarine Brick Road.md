@@ -63,7 +63,7 @@ Dark lord in Vetruvia's Church?
 1. Living town
 	1. busy civic center
 	2. Traffics in weapons and delirium
-2. Only safe way to get into Drakkenheim is through the Shepherd's gate
+2. Only safe way to get into Drakkenheim is through the [[Drakkenheim/Locations/Landmarks/Shepherds Gate\|Shepherd's gate]]
 	1. There is also the "College Gate," but it's a BAD GATE
 		1. King's gate and Temple's gate frequently change hands
 		2. Champion's gate also a big no-no
@@ -71,7 +71,7 @@ Dark lord in Vetruvia's Church?
 				1. Storms, rifts, creatures, etc.
 	2. Two factions
 		1. Hooded Lanterns
-			1. Control the Shepherd's gate
+			1. Control the [[Drakkenheim/Locations/Landmarks/Shepherds Gate\|Shepherd's gate]]
 		2. Drakkenheim Guard
 			1. Want to raze Drakkenheim to the ground
 
