@@ -23,7 +23,7 @@
 			1. [[Drakkenheim/NPCs/Sir Bryce Landry\|Bryce]] mostly burned and bemoaned his blurry vision
 		2. I VALIANTLY joined the fray, sticking a steamy stooge in the stomach!
 		3. After much fighting, the other guards **FINALLY** finished their smoke break and sauntered in to join the fight
-			1. He *HEROICLY* stole the kill from [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]] and [[Drakkenheim/_Players/Echo Starcaller\|Echo]], only to immediately be blinded when it exploded in his face
+			1. The first guard *HEROICLY* stole the kill from [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]] and [[Drakkenheim/_Players/Echo Starcaller\|Echo]], only to immediately be blinded when it exploded in his face
 	3. When all the enemies lay slain, I rushed to [[Drakkenheim/NPCs/Sir Bryce Landry\|Bryce]]'s side and provided him with healing potions, and cured [[Drakkenheim/_Players/Echo Starcaller\|Echo]] of some of his wounds
 3. After the fight, [[Drakkenheim/NPCs/Sir Bryce Landry\|Sir Bryce Landry]] took a seat and told us the story of the [[Drakkenheim/Artifacts and Mythic Items/The Scepter of Saint Vitruvio\|The Scepter of Saint Vitruvio]]
 	1. It's a broken chari leg that was used to beat the crap out of some evil doers
