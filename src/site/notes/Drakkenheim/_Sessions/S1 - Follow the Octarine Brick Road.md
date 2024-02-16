@@ -86,7 +86,7 @@ The Queen's men - Faction
 	1. single sheet inside
 
 
-"Haze Husks"
+[[Drakkenheim/Creatures/Haze Husk\|Haze Husks]]
 
 
 ## Encounter 1
