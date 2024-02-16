@@ -8,7 +8,7 @@ Stale description:
 Symbology: Red armband
 Affiliates: 
 Alliances: 
-Enemies: [[Drakkenheim/Factions/The Drakkenguard\|The Drakkenguard]]
+Enemies: [[Drakkenheim/Factions/The Drakken Guard\|The Drakken Guard]]
 Size: 
 Secrets: 
 Tags: #Faction_Drakk 
