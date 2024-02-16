@@ -6,7 +6,7 @@
 
 | Name | Who Asked | Reward | First Session | Resolved Session | Notes |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| Collect The Crystal | [[Drakkenheim/NPCs/Rehani Miblepeble\|Rehani Miblepeble]] | 1250GP | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]] |  | The crystal's in the [[Drakkenheim/Locations/Rat's Nest Tavern\|Rat's Nest Tavern]], rumored to be worth 1,000 GP, but she's willing to pay 1250 |
+| Collect The Crystal | [[Drakkenheim/NPCs/Rehani Miblepebble\|Rehani Miblepebble]] | 1250GP | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]] |  | The crystal's in the [[Drakkenheim/Locations/Rat's Nest Tavern\|Rat's Nest Tavern]], rumored to be worth 1,000 GP, but she's willing to pay 1250 |
 | Find out what happened to [[Drakkenheim/NPCs/Ramsey\|Ramsey]] |  |  |  |  |  |
 | De-Program [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]] |  |  |  |  |  |
 
