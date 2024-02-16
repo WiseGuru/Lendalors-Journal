@@ -7,6 +7,7 @@ Vivid description: A coalition formed from the remnants of city guards and palad
 Stale description: 
 Symbology: 
 Affiliates: 
+- Led by [[Drakkenheim/NPCs/Elias Drexel\|Lord Commander Elias Drexel]]
 Alliances: 
 Enemies: 
 Size: 
