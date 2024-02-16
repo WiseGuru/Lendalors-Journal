@@ -8,6 +8,9 @@ In broad strokes, an elven woman named Elwyn was scorned or cheated on by her lo
 
 [[Drakkenheim/NPCs/Lukrum Stormrock\|Lukrum]] said he sometimes changes the name depending on the audience, but for this version I'm going with Kieran, a strong elven name that suits the story, but will alternate his name with distant relatives of locals as I see fit.
 
+
+### The Haunting of Eventide Manor
+
 Gather round friends and let me tell you a story
 Put the children abed, for it gets quite gory
 It begins with love and ends with death;
