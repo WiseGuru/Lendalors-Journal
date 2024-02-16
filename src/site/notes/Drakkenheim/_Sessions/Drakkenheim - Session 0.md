@@ -212,7 +212,7 @@ It was against this backdrop that the Drakken Guard, an order of skilled elves a
 
 ### **The Founding of Drakkenheim**
 
-As explorers and settlers came to Delmarva, they found the land inhospitable and harsh. It was the Drakken Guard who offered protection and sanctuary within the walls of a burgeoning city, which they named Drakkenheim. Over time, Drakkenheim grew into a thriving metropolis, and it was unique in its relationship with the ancient order. [[Drakkenheim/Factions/The Drakkenguard\|The Drakkenguard]] began to focus not only on protecting the continent but also on healing those who were beyond the abilities of common healers.
+As explorers and settlers came to Delmarva, they found the land inhospitable and harsh. It was the Drakken Guard who offered protection and sanctuary within the walls of a burgeoning city, which they named Drakkenheim. Over time, Drakkenheim grew into a thriving metropolis, and it was unique in its relationship with the ancient order. [[Drakkenheim/Factions/The Drakken Guard\|The Drakken Guard]] began to focus not only on protecting the continent but also on healing those who were beyond the abilities of common healers.
 
 As the city prospered, it attracted powerful wizards, scholars, and adventurers. Drakkenheim soon became a center of magical learning and research. [[Drakkenheim/Factions/The Amethyst Academy\|The Amethyst Academy]] was founded, dedicated to the study of abjuration, enchantment, and divination, and it attracted some of the brightest minds from across the realms.
 
@@ -260,6 +260,6 @@ When Drakkenheim fell into ruin, the gnomes and hobgoblins found themselves unit
 # 4. Factions of Drakkenheim
 1. **[[Drakkenheim/Factions/The Hooded Lanterns\|The Hooded Lanterns]]**: A coalition formed from the remnants of city guards and paladins dedicated to rebuilding Drakkenheim. 
 2. **[[Drakkenheim/Factions/The Queen's Men\|The Queen's Men]]**: Under the guise of their enigmatic leader, [[Drakkenheim/Mythological Figures/The Queen of Thieves\|The Queen of Thieves]], these criminal outlaws aim to gain total control, as they employ a network of loosely connected outlaw gangs to maintain their influence.
-3. **[[Drakkenheim/Factions/The Drakkenguard\|The Drakkenguard]]**: This order of paladins has returned to Drakkenheim to cleanse it of Delirium and secure holy relics.  
+3. **[[Drakkenheim/Factions/The Drakken Guard\|The Drakken Guard]]**: This order of paladins has returned to Drakkenheim to cleanse it of Delirium and secure holy relics.  
 4. **[[Drakkenheim/Factions/The Followers of the Falling Flame\|The Followers of the Falling Flame]]**: These devotees believe in the power of Delirium, many talk of some ritual known as the "Sacrement of the Falling Fire" to gain resistance to the effects of Delerium, all while serving their newfound prophet. 
 5. **[[Drakkenheim/Factions/The Amethyst Academy\|The Amethyst Academy]]**: Governed by the enigmatic Eldrick Runeweaver, this institution of magic seeks to harness the potential of Delirium while recovering their former academy.
