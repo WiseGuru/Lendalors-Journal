@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s7-dolgroth-the-buoyant/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s7-dolgroth-the-buoyant/"}
 ---
-
-# S7 - Dolgroth The Buoyant
-
-[[Drakkenheim/_Sessions/Missions\|Our current missions.]]
 
 ## Session Summary
 1. [[Drakkenheim/NPCs/Dolgroth\|Dolgroth]] the... shiny? Buoyant? Levitating?
