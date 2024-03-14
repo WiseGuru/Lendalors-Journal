@@ -20,3 +20,12 @@
 	4. We quickly defeat them (mostly thanks to [[Drakkenheim/_Players/Argoth Calamenthe\|Argoth]] and his fiery magic), though not without injury
 4. [[Drakkenheim/_Players/Lendalor Thugijak\|I]] revive the downed dog master, and we are introduced to him
 	1. He is a goliath named [[Houndmaster\|Houndmaster]], and he works for a man named [[Jim Foreign\|Jim Foreign]]...
+
+
+
+<i id="bubble">
+Bubble
+</i>
+
+> [!sparkle]
+> Data
