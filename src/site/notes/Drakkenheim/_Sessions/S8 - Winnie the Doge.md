@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s8-winnie-the-doge/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s8-winnie-the-doge/"}
 ---
 
 # S8 - Winnie the Doge
@@ -19,5 +19,5 @@
 		2. One of them, a former bard or musician, even sends out this infectious laughter that numbs the mind
 	4. We quickly defeat them (mostly thanks to [[Drakkenheim/_Players/Argoth Calamenthe\|Argoth]] and his fiery magic), though not without injury
 4. [[Drakkenheim/_Players/Lendalor Thugijak\|I]] revive the downed dog master, and we are introduced to him
-	1. He is a goliath named [[Houndmaster\|Houndmaster]], and he works for a man named [[Jim Foreign\|Jim Foreign]]...
+	1. He is a goliath named [[Drakkenheim/NPCs/Houndmaster\|Houndmaster]], and he works for a man named [[Drakkenheim/NPCs/Jim Foreign\|Jim Foreign]]...
 
