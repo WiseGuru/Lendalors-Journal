@@ -3,6 +3,8 @@
 ---
 
 Vivid description: 
+- She has managed to go into the [[Drakkenheim/Artifacts and Mythic Items/Delirium\|Delirium]] crater and return
+- Made four separate predictions of the cataclysm before it occurred
 Stale description: 
 Mannerisms: 
 Affiliates: 
