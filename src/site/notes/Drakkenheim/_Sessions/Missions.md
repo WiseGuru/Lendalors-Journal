@@ -9,7 +9,7 @@
 | Collect The Crystal | [[Drakkenheim/NPCs/Rehani Miblepebble\|Rehani Miblepebble]] | 1250GP | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]] |  | The crystal's in the [[Drakkenheim/Locations/Landmarks/Rat's Nest Tavern\|Rat's Nest Tavern]], rumored to be worth 1,000 GP, but she's willing to pay 1250 |
 | Find out what happened to [[Drakkenheim/NPCs/Ramsey\|Ramsey]] |  |  | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]] |  |  |
 | De-Program [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]] |  |  | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]] |  |  |
-| Get Animal from [[Jim Foreign\|Jim Foreign]] | [[Houndmaster\|Houndmaster]] | DOGGY | [[Drakkenheim/_Sessions/S8 - Winnie the Doge\|S8 - Winnie the Doge]] |  |  |
+| Get Animal from [[Drakkenheim/NPCs/Jim Foreign\|Jim Foreign]] | [[Drakkenheim/NPCs/Houndmaster\|Houndmaster]] | DOGGY | [[Drakkenheim/_Sessions/S8 - Winnie the Doge\|S8 - Winnie the Doge]] |  |  |
 
 
 ## Completed Missions
