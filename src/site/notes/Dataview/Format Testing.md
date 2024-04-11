@@ -20,7 +20,8 @@ Bubble
 - [<] scheduled
 - [>] rescheduled
 
-- [ ] important
+
+- [!] important
 - [?] question
 - [i] information
 - [S] amount
