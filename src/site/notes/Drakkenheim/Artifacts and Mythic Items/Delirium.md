@@ -14,7 +14,10 @@ Levels of contamination
 - At level 6, you are irreversibly transformed
 Comes in various sizes
 - Chips
-- summin
+- Slivers
+	- 10GP
+- Fragments
+	- 100GP
 - Crystals
 - Geodes
 What it do?
