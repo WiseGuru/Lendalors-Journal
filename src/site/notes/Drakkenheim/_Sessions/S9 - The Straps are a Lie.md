@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s9-the-straps-are-a-lie/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s9-the-straps-are-a-lie/"}
 ---
 
 
@@ -53,5 +53,6 @@
 	1. After everyone else has left the tent, [[Drakkenheim/_Players/Lendalor Thugijak\|I]] hear the victim whisper something
 		1. I get closer, and it sounds like he's saying the word "mercy" in orcish, and he points at the fetish of [[Drakkenheim/Mythological Figures/Luthic\|Luthic]] I have under my shirt
 		2. He says it with derision, like [[Drakkenheim/Mythological Figures/Orcish Gods\|another orc might]]
-	2. Outsider god of disease [[Drakkenheim/Mythological Figures/Infermum\|Infermum]]
+	2. Outsider god of disease [[Drakkenheim/Mythological Figures/Infirmum\|Infirmum]]
 		1. Something something leech
+		2. He was a jerk, I don't like him. 
