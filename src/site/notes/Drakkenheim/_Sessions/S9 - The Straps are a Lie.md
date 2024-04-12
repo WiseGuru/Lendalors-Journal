@@ -51,7 +51,7 @@
 	4. He wants us to investigate the crater and see if 
 8. Orcish exchange
 	1. After everyone else has left the tent, [[Drakkenheim/_Players/Lendalor Thugijak\|I]] hear the victim whisper something
-		1. I get closer, and it sounds like he's saying the word "mercy" in orcish, and he points at the fetish of [[Luthic\|Luthic]] I have under my shirt
-		2. He says it with derision, like [[Drakkenheim/_Sessions/Orcish Gods\|another orc might]]
-	2. Outsider god of disease [[infermum\|infermum]]
+		1. I get closer, and it sounds like he's saying the word "mercy" in orcish, and he points at the fetish of [[Drakkenheim/Mythological Figures/Luthic\|Luthic]] I have under my shirt
+		2. He says it with derision, like [[Drakkenheim/Mythological Figures/Orcish Gods\|another orc might]]
+	2. Outsider god of disease [[Drakkenheim/Mythological Figures/Infermum\|Infermum]]
 		1. Something something leech
