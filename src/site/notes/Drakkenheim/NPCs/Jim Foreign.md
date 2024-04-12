@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/jim-foreign/"}
+---
+
+Vivid description: 
+- Very showy halfling animal trader with a *bright* pink moustache and wearing a long cape.
+Stale description: 
+Mannerisms: 
+Affiliates: 
+Alliances: 
+Enemies: 
+Stats: 
+Home base: 
+Current Location: 
+Secrets: 
+Tags: #NPC_Drakk 
