@@ -18,7 +18,7 @@ Locations:
 3. [[Drakkenheim/Locations/Landmarks/The Hendrix Farm\|The Hendrix Farm]]
 	1. One of the only remaining farms in town
 4. [[Drakkenheim/Locations/Landmarks/Bark and Buzzard\|Bark and Buzzard]]
-5. [[Drakkenheim/Locations/Landmarks/The Red Line\|The Red Line]]
+5. [[Drakkenheim/Locations/Landmarks/The Red Lion\|The Red Lion]]
 	1. Up-scale inn
 6. [[Drakkenheim/Locations/Landmarks/Crowe and Sons\|Crowe and Sons]]
 7. [[Drakkenheim/Locations/Landmarks/Eventide Manner\|Eventide Manner]]
