@@ -3,8 +3,6 @@
 ---
 
 
-# S9 - The Straps are a Lie
-
 [[Drakkenheim/_Sessions/Missions\|Our current missions.]]
 
 ## Session Summary
