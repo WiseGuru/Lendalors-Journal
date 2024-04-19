@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s10-meeting-the-tiger-monarch/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s10-meeting-the-tiger-monarch/"}
 ---
 
-
-# S10 - Meeting the Tiger Monarch
 
 [[Drakkenheim/_Sessions/Missions\|Our current missions.]]
 
