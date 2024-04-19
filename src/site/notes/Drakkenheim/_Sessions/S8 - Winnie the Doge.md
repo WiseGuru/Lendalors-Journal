@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/drakkenheim/sessions/s8-winnie-the-doge/"}
 ---
 
-# S8 - Winnie the Doge
-
 [[Drakkenheim/_Sessions/Missions\|Our current missions.]]
 
 ## Session Summary
