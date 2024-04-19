@@ -4,11 +4,12 @@
 
 ## Current Missions
 
-| Name                                 | Who Asked              | Reward                 | First Session                       | Resolved Session                    | Notes                          |
-| ------------------------------------ | ---------------------- | ---------------------- | ----------------------------------- | ----------------------------------- | ------------------------------ |
-| Find out what happened to [[Drakkenheim/NPCs/Ramsey\|Ramsey]] |                        |                        | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]]       |                                     |                                |
-| De-Program [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]]         |                        |                        | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]]       |                                     |                                |
-| [[Drakkenheim/NPCs/Oscar Yoren\|Oscar Yoren]] Brain Heist          | [[Drakkenheim/NPCs/Rehani Miblepebble\|Rehani Miblepebble]] |                        | [[Drakkenheim/_Sessions/S10 - Meeting the Tiger Monarch\|S10 - Meeting the Tiger Monarch]] |                                     | Prepaid us with 300GB in gems. |
+| Name                                | Who Asked                                               | Reward | First Session                       | Resolved Session | Notes                          |
+| ----------------------------------- | ------------------------------------------------------- | ------ | ----------------------------------- | ---------------- | ------------------------------ |
+| Find out what happened to [[Drakkenheim/NPCs/Ramzi\|Ramzi]] | [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]]'s parents???                   |        | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]]       |                  |                                |
+| De-Program [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]]        | [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]]'s Parents?                     |        | [[Drakkenheim/_Sessions/S5 - Chillin in Emberwood\|S5 - Chillin in Emberwood]]       |                  |                                |
+| [[Drakkenheim/NPCs/Oscar Yoren\|Oscar Yoren]] Brain Heist         | [[Drakkenheim/NPCs/Rehani Miblepebble\|Rehani Miblepebble]]                                  |        | [[Drakkenheim/_Sessions/S10 - Meeting the Tiger Monarch\|S10 - Meeting the Tiger Monarch]] |                  | Prepaid us with 300GB in gems. |
+| Learn more about parasites          | [[Drakkenheim/NPCs/Knight Captain Theodore Marshall\|Theodore Marshall]] |        | [[Drakkenheim/_Sessions/S9 - The Straps are a Lie\|S9 - The Straps are a Lie]]       |                  |                                |
 
 
 ## Completed Missions
