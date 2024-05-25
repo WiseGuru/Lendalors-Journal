@@ -19,7 +19,7 @@
 			1. The recipient was literally [[Drakkenheim/Mythological Figures/The Queen of Thieves\|The Queen of Thieves]]
 	3. One of the archers from the [[Drakkenheim/Locations/Chapel of Saint Brenna\|Chapel of Saint Brenna]] positively identifies us
 3. He's got a mission for us
-	1. Go to the [[Black Ivory Inn\|Black Ivory Inn]] and rescue [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]]
+	1. Go to the [[Drakkenheim/Locations/Landmarks/Black Ivory Inn\|Black Ivory Inn]] and rescue [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]]
 		1. The same *Kevin* that [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]] knows who got sucked into the [[Drakkenheim/Factions/The Queen's Men\|The Queen's Men]]
 		2. Once 
 	2. [[The Padlock Tavern\|The Padlock Tavern]] [[Buckledown Row\|Buckledown Row]]
