@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s11-cuisses-de-grenouille/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s11-cuisses-de-grenouille/"}
 ---
 
 
-# S11 - Cuisses de Grenouille
 [[Drakkenheim/_Sessions/Missions\|Our current missions.]]
 
 ## Session Summary
@@ -24,4 +23,4 @@
 			- It all frankly reminds me of the [[Drakkenheim/Mythological Figures/Orcish Gods\|Orcish Gods]]
 			- The [[Drakkenheim/Artifacts and Mythic Items/Delirium\|Delirium]] crystals puncture their hearts, and an *octarine* light can sometimes be seen emanating from the "successful" pilgrims
 		- The more overcome someone is with contamination, the more likely they are to have a vision
-- We decide to press on in search of [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]], heading up to the [[Black Ivory Inn\|Black Ivory Inn]]
+- We decide to press on in search of [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]], heading up to the [[Drakkenheim/Locations/Landmarks/Black Ivory Inn\|Black Ivory Inn]]
