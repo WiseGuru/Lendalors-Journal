@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/creatures/delirium-dregs/","tags":["#Creature"]}
+{"dg-publish":true,"permalink":"/drakkenheim/creatures/delirium-dregs/","tags":["#Creature"],"noteIcon":"1"}
 ---
 
 - Description
