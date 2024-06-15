@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/artifacts-and-mythic-items/oaken-bolter/"}
+{"dg-publish":true,"permalink":"/drakkenheim/artifacts-and-mythic-items/oaken-bolter/","noteIcon":""}
 ---
 
 Description:

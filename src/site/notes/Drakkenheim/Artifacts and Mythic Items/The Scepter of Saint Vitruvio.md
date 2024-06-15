@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/artifacts-and-mythic-items/the-scepter-of-saint-vitruvio/"}
+{"dg-publish":true,"permalink":"/drakkenheim/artifacts-and-mythic-items/the-scepter-of-saint-vitruvio/","noteIcon":""}
 ---
 
 Description: Some kind of a club-like object, used to smash the house of the enemies by [[Drakkenheim/Mythological Figures/Saint Vitruvio\|Saint Vitruvio]]

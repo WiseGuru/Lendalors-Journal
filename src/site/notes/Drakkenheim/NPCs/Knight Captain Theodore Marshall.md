@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/knight-captain-theodore-marshall/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/knight-captain-theodore-marshall/","noteIcon":""}
 ---
 
 Vivid description: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/luthic/"}
+{"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/luthic/","noteIcon":""}
 ---
 
 Vivid description: 

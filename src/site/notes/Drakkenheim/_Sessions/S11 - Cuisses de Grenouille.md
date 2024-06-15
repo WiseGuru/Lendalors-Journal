@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s11-cuisses-de-grenouille/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s11-cuisses-de-grenouille/","noteIcon":""}
 ---
 
 

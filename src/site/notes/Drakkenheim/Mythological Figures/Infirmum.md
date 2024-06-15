@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/infirmum/"}
+{"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/infirmum/","noteIcon":""}
 ---
 
 Vivid description: The orc Outsider God of disease

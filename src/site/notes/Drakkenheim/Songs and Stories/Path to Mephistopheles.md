@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/songs-and-stories/path-to-mephistopheles/"}
+{"dg-publish":true,"permalink":"/drakkenheim/songs-and-stories/path-to-mephistopheles/","noteIcon":""}
 ---
 
-Original song written by [[Drakkenheim/_Players/Lendalor Thugijak\|Lendalor]], from [[Drakkenheim/_Sessions/S3 - Pickled and Roasted\|S3 - Pickled and Roasted]]
+Original song written by [[Drakkenheim/_Players/Lendalor Thugijak\|Lendalor]], from [[Drakkenheim/_Sessions/S03 - Pickled and Roasted\|S03 - Pickled and Roasted]]
 
 Realized by [Erik Akopyan.](https://www.fiverr.com/erikakopyan?source=order_page_user_message_link)
 

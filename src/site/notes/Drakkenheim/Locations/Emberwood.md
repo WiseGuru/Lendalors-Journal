@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/emberwood/"}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/emberwood/","noteIcon":""}
 ---
 
 

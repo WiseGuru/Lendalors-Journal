@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/lukrum-stormrock/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/lukrum-stormrock/","noteIcon":""}
 ---
 
 Vivid description: 

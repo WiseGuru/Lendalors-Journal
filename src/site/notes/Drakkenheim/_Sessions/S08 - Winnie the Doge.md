@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s08-winnie-the-doge/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s08-winnie-the-doge/","noteIcon":""}
 ---
 
 [[Drakkenheim/_Sessions/Missions\|Our current missions.]]

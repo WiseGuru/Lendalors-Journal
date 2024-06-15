@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/skull-and-sword/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/skull-and-sword/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description

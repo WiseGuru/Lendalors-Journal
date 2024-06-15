@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/factions/the-followers-of-the-falling-flame/"}
+{"dg-publish":true,"permalink":"/drakkenheim/factions/the-followers-of-the-falling-flame/","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/ansem-lang/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/ansem-lang/","noteIcon":""}
 ---
 
 Vivid description: 

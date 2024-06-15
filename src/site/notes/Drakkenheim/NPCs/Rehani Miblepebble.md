@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/rehani-miblepebble/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/rehani-miblepebble/","noteIcon":""}
 ---
 
 Vivid description: 

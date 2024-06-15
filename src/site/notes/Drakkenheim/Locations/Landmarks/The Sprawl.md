@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/the-sprawl/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/the-sprawl/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description

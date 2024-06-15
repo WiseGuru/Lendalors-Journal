@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/songs-and-stories/elwyn-of-eventide-manor/"}
+{"dg-publish":true,"permalink":"/drakkenheim/songs-and-stories/elwyn-of-eventide-manor/","noteIcon":""}
 ---
 
 [[Drakkenheim/NPCs/Lukrum Stormrock\|Lukrum Stormrock]] first told [[Drakkenheim/_Players/Lendalor Thugijak\|me]] the story of the haunting of Eventide Manor, and wanted to give my own spin on the tale. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/the-queen-of-thieves/"}
+{"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/the-queen-of-thieves/","noteIcon":""}
 ---
 
 Vivid description: 

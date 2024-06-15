@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/players/argoth-calamenthe/"}
+{"dg-publish":true,"permalink":"/drakkenheim/players/argoth-calamenthe/","noteIcon":""}
 ---
 
 

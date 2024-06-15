@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s10-meeting-the-tiger-monarch/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s10-meeting-the-tiger-monarch/","noteIcon":""}
 ---
 
 

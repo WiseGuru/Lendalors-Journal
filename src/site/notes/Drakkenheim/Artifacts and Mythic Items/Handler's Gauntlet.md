@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/artifacts-and-mythic-items/handler-s-gauntlet/"}
+{"dg-publish":true,"permalink":"/drakkenheim/artifacts-and-mythic-items/handler-s-gauntlet/","noteIcon":""}
 ---
 
 Description:

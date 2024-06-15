@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s01-follow-the-octarine-brick-road/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s01-follow-the-octarine-brick-road/","noteIcon":""}
 ---
 
 

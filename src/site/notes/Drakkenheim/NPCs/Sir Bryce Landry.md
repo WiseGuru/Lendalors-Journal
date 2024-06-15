@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/sir-bryce-landry/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/sir-bryce-landry/","noteIcon":""}
 ---
 
 

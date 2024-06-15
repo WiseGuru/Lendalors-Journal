@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/aldor-the-immense/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/aldor-the-immense/","noteIcon":""}
 ---
 
 ![Aldor the Immense-1.png|400](/img/user/Attachments/Aldor%20the%20Immense-1.png)

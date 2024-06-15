@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/players/lendalor-thugijak/"}
+{"dg-publish":true,"permalink":"/drakkenheim/players/lendalor-thugijak/","noteIcon":""}
 ---
 
 

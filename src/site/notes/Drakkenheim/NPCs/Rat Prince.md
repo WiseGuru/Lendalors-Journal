@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/rat-prince/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/rat-prince/","noteIcon":""}
 ---
 
 Vivid description: 

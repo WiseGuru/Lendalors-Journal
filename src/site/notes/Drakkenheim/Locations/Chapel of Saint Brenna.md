@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/chapel-of-saint-brenna/"}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/chapel-of-saint-brenna/","noteIcon":""}
 ---
 
 

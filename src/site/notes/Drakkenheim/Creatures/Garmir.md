@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/creatures/garmir/","tags":["#Creature"]}
+{"dg-publish":true,"permalink":"/drakkenheim/creatures/garmir/","tags":["#Creature"],"noteIcon":""}
 ---
 
 - Description

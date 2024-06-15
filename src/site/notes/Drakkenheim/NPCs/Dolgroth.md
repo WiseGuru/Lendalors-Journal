@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/dolgroth/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/dolgroth/","noteIcon":""}
 ---
 
 Vivid description: 

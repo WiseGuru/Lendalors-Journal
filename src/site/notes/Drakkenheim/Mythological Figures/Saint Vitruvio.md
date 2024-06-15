@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/saint-vitruvio/"}
+{"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/saint-vitruvio/","noteIcon":""}
 ---
 
 

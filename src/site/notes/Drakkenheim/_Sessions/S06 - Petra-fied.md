@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s06-petra-fied/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s06-petra-fied/","noteIcon":""}
 ---
 
 ## Session Summary

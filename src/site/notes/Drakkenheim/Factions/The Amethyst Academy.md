@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/factions/the-amethyst-academy/"}
+{"dg-publish":true,"permalink":"/drakkenheim/factions/the-amethyst-academy/","noteIcon":""}
 ---
 
 

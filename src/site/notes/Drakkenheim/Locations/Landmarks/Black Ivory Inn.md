@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/black-ivory-inn/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/black-ivory-inn/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description

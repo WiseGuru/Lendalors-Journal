@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/shared-web-journal/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/shared-web-journal/","noteIcon":""}
 ---
 
 

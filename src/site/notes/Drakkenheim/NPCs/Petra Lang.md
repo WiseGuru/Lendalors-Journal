@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/petra-lang/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/petra-lang/","noteIcon":""}
 ---
 
 Vivid description: 

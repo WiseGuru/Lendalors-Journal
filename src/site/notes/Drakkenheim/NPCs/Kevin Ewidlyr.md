@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/kevin-ewidlyr/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/kevin-ewidlyr/","noteIcon":""}
 ---
 
 Vivid description: [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]]'s brother, who was inducted by [[Drakkenheim/Factions/The Queen's Men\|The Queen's Men]]

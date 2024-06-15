@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/cathedral-of-saint-vitruvio/"}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/cathedral-of-saint-vitruvio/","noteIcon":""}
 ---
 
 

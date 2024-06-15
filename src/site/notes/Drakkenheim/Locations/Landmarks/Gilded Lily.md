@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/gilded-lily/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/gilded-lily/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description

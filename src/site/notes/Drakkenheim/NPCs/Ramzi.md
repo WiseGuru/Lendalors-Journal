@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/ramzi/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/ramzi/","noteIcon":""}
 ---
 
 Vivid description:

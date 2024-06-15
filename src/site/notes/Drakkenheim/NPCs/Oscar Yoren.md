@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/oscar-yoren/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/oscar-yoren/","noteIcon":""}
 ---
 
 Vivid description: 

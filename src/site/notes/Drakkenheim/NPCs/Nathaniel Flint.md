@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/nathaniel-flint/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/nathaniel-flint/","noteIcon":""}
 ---
 
 Vivid description: 

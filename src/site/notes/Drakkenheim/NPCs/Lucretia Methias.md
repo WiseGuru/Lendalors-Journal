@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/lucretia-methias/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/lucretia-methias/","noteIcon":""}
 ---
 
 Vivid description: 

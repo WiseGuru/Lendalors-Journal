@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/the-red-lion/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/the-red-lion/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description

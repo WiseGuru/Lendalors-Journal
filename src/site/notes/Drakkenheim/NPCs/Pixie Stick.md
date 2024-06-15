@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/pixie-stick/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/pixie-stick/","noteIcon":""}
 ---
 
 Vivid description:

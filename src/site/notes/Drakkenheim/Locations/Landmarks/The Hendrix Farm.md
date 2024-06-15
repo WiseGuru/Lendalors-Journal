@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/the-hendrix-farm/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/the-hendrix-farm/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description

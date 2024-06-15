@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/rat-s-nest-tavern/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/rat-s-nest-tavern/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description

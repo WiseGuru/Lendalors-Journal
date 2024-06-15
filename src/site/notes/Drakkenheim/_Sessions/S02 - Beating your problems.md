@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s02-beating-your-problems/","tags":["Session_Drakk"]}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s02-beating-your-problems/","tags":["Session_Drakk"],"noteIcon":""}
 ---
 
 ### Questions

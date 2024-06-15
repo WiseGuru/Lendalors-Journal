@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/crowe-and-sons/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/crowe-and-sons/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description

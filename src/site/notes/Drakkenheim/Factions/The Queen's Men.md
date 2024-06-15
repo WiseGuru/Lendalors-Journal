@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/factions/the-queen-s-men/"}
+{"dg-publish":true,"permalink":"/drakkenheim/factions/the-queen-s-men/","noteIcon":""}
 ---
 
 

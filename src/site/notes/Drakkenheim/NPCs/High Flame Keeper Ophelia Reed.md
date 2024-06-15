@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/high-flame-keeper-ophelia-reed/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/high-flame-keeper-ophelia-reed/","noteIcon":""}
 ---
 
 

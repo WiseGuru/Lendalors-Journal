@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s09-the-straps-are-a-lie/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s09-the-straps-are-a-lie/","noteIcon":""}
 ---
 
 

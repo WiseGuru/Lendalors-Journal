@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/eventide-manner/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/eventide-manner/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description

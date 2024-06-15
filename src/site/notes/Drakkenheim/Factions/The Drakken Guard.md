@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/factions/the-drakken-guard/"}
+{"dg-publish":true,"permalink":"/drakkenheim/factions/the-drakken-guard/","noteIcon":""}
 ---
 
 

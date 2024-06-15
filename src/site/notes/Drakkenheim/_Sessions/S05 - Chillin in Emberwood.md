@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s05-chillin-in-emberwood/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s05-chillin-in-emberwood/","noteIcon":""}
 ---
 
 ## Session Summary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/np-cs/jim-foreign/"}
+{"dg-publish":true,"permalink":"/drakkenheim/np-cs/jim-foreign/","noteIcon":""}
 ---
 
 Vivid description: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/creatures/ratlings/","tags":["#Creature"]}
+{"dg-publish":true,"permalink":"/drakkenheim/creatures/ratlings/","tags":["#Creature"],"noteIcon":""}
 ---
 
 - Description

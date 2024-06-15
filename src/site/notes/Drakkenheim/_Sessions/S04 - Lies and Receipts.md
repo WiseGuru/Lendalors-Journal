@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s04-lies-and-receipts/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s04-lies-and-receipts/","noteIcon":""}
 ---
 
 ## Session Summary

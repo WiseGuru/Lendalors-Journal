@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/factions/the-faith-of-the-sacred-flame/"}
+{"dg-publish":true,"permalink":"/drakkenheim/factions/the-faith-of-the-sacred-flame/","noteIcon":""}
 ---
 
 Vivid description: A religion that treats the remains of clerics and paladins as sacred relics

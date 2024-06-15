@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/artifacts-and-mythic-items/delirium/"}
+{"dg-publish":true,"permalink":"/drakkenheim/artifacts-and-mythic-items/delirium/","noteIcon":""}
 ---
 
 ![Delirium-1.png](/img/user/Attachments/Delirium-1.png)

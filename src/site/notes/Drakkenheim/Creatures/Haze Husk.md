@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/creatures/haze-husk/","tags":["#Creature"]}
+{"dg-publish":true,"permalink":"/drakkenheim/creatures/haze-husk/","tags":["#Creature"],"noteIcon":""}
 ---
 
 - Description

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/river-drann/"}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/river-drann/","noteIcon":""}
 ---
 
 Vivid description:

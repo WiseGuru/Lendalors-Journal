@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/players/echo-starcaller/"}
+{"dg-publish":true,"permalink":"/drakkenheim/players/echo-starcaller/","noteIcon":""}
 ---
 
 

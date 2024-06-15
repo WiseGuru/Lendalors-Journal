@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/drakkenheim-session-0/"}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/drakkenheim-session-0/","noteIcon":""}
 ---
 
 #Session_Drakk 

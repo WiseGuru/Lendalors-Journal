@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/saint-tarna/"}
+{"dg-publish":true,"permalink":"/drakkenheim/mythological-figures/saint-tarna/","noteIcon":""}
 ---
 
 Vivid description: She is a broad representative of the Sacred Flame

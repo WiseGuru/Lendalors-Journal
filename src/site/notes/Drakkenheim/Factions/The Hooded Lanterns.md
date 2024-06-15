@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/factions/the-hooded-lanterns/"}
+{"dg-publish":true,"permalink":"/drakkenheim/factions/the-hooded-lanterns/","noteIcon":""}
 ---
 
 

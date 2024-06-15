@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/players/weela-ewidlyr/"}
+{"dg-publish":true,"permalink":"/drakkenheim/players/weela-ewidlyr/","noteIcon":""}
 ---
 
 

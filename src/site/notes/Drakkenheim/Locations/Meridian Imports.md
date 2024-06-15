@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/meridian-imports/"}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/meridian-imports/","noteIcon":""}
 ---
 
 

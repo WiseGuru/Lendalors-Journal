@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/drakkenheim/","tags":["Location_Drakk"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/drakkenheim/","tags":["Location_Drakk"],"noteIcon":""}
 ---
 
 ## The History of Drakkenheim (Lendalor's Notes)

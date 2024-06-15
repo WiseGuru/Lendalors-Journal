@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/bark-and-buzzard/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/bark-and-buzzard/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description

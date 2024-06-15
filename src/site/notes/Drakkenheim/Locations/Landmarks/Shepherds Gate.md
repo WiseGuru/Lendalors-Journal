@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/shepherds-gate/","tags":["Landmark"]}
+{"dg-publish":true,"permalink":"/drakkenheim/locations/landmarks/shepherds-gate/","tags":["Landmark"],"noteIcon":""}
 ---
 
 - Vivid description
