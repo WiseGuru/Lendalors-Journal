@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drakkenheim/sessions/s13-kevin-on-repeat/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/drakkenheim/sessions/s13-kevin-on-repeat/","noteIcon":""}
 ---
 
 
@@ -32,7 +32,9 @@
 		5. [[Miss Charlotte\|Miss Charlotte]] is linked somehow to a flesh-beast in the basement
 			1. The flesh-beast is similar in nature to the mind-speaking building we passed earlier
 	3. There is a guy upstairs who is out of the timeloop, but believes it's the end times
-	4. We were able to revive [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]], who now remembers [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]], and a man from the [[Drakkenheim/Factions/The Amethyst Academy\|The Amethyst Academy]] named [[Osiris\|Osiris]]
+	4. The gangsters downstairs are controlled by parasites
+		1. We heard the names [[Heinrich\|Heinrich]] and [[Choroba\|Choroba]] before we entered the room
+	5. We were able to revive [[Drakkenheim/NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]], who now remembers [[Drakkenheim/_Players/Weela Ewidlyr\|Weela]], and a man from the [[Drakkenheim/Factions/The Amethyst Academy\|The Amethyst Academy]] named [[Osiris\|Osiris]]
 5. Hypotheses:
 	1. [[Miss Charlotte\|Miss Charlotte]] was possibly granted a *Wish* to be the greatest pianist in the world, and the [[Drakkenheim/Artifacts and Mythic Items/Delirium\|Delirium]] that hit her had an interaction
 	2. The [[Drakkenheim/Locations/Landmarks/Black Ivory Inn\|Black Ivory Inn]] and [[Miss Charlotte\|Miss Charlotte]] are basically just lures for the flesh-beast in the basement
