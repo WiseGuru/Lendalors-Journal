@@ -32,7 +32,7 @@ All was not well in Eventide Manor.
 He lusted for power, for knowledge anew,  
 And took to his bed a lover untrue.  
 Elwyn caught them, entangled as one,  
-In rage, she struck until they were done—  
+In rage, she struck until they were done;
 The fateful fury of Eventide Manor.
 
 With blade and bludgeon she slashed and slew,  
@@ -50,11 +50,11 @@ Guarding the halls of Eventide Manor.
 Now Elwyn stalks, with vengeance unfed,  
 Believing each intruder defiles her bed.  
 She butchers and slays all who invade,  
-None who enter will ever evade—  
+None who enter will ever evade;
 The cursed keeper of Eventide Manor.
 
 Yet some, with hearts of greed and stone,  
-May seek the treasure she guards alone—  
+May seek the treasure she guards alone;
 Ancient riches and artifacts grand,  
 Gathered over years by elven hand,  
 Hidden deep within Eventide Manor.
