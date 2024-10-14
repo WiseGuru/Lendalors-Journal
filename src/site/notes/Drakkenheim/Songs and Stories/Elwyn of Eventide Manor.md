@@ -11,68 +11,62 @@ In broad strokes, an elven woman named Elwyn was scorned or cheated on by her lo
 
 ### The Haunting of Eventide Manor
 
-Gather round friends and let me tell you a story
-Put the children abed, for it gets quite gory
-It begins with love and ends with death;
-It's a warning to all, so take a deep breath
-and hear of the haunting Eventide Manor
+Gather round, friends, I'll tell you a tale;
+Send the children to bed for this dark regale.
+It starts with love and ends in death,  
+A tale so grim, it chills your breath,  
+And listen well to Eventide Manor.
 
-Our tale begins with lovers two,
-Hearts pierced by cupid's arrows, true
-Kieran Eventide, a mage most powerful
-And Elwyn, sweet Elwyn, a cleric most faithful
-Together, forever, in Eventide Manor
+Our story begins with lovers, two,  
+Their hearts pierced by Cupid's arrows, true.  
+Kieran Eventide, a mage of might,  
+And Elwyn, fair Elwyn, a cleric of light,  
+Together forever in Eventide Manor.
 
-Happily together they passed many years
-Kieran consumed with the study of the spheres
-And Elwyn was doting, patient and kind
-But he lost his way, became spellblind
-Not all was well in Eventide Manor
+For years, they dwelled in peaceful bliss,  
+Kieran lost in the stars' abyss.  
+Elwyn was patient, loving, and kind,  
+But Kieran lost his way, became spellblind,  
+All was not well in Eventide Manor.
 
-Lusting for power and novel experience
-He brought to bed a pretty young tarriance
-Elwyn discovered them in flagrante delicto
-Buried to his hilt in her erotogenic zone
-Furor-filled Elwyn of Eventide Manor
+He lusted for power, for knowledge anew,  
+And took to his bed a lover untrue.  
+Elwyn caught them, entangled as one,  
+In rage, she struck until they were done—  
+The fateful fury of Eventide Manor.
 
-Enraged Elwyn slew them both
-Cut them and chopped them for tainted troth
-She decorated the house in crimson splendor
-It took many more lives to at last apprehend her
-The grisly slaughter at Eventide Manor
+With blood and blade, she ended their vow,  
+Chopping them both with a scarlet plow.  
+She painted the walls with crimson splendor
+Drawn from those trying to apprehend her
+The grisly tale of Eventide Manor.
 
-Poor, sweet Elwyn of Eventide Manor
-Broken by the betrayal of a vile pretender
-They hanged her in front to look on her work
-But even in death, her duty she did not shirk
-The dead shall keep Eventide Manor
+Poor Elwyn, now lost to despair,  
+Betrayed by love, beyond repair.  
+They hanged her high to face her own wrath,  
+But even in death, she walks her dark path,  
+Guarding the halls of Eventide Manor.
 
-Elwyn now walks those halls most dread
-Thinking those who enter have tainted her bed
-She butchers and slays all invaders
-None who enter will ever evade her
-The dead shall keep Eventide Manor
+Now Elwyn stalks, with vengeance unfed,  
+Believing each intruder defiles her bed.  
+She butchers and slays all who invade,  
+None who enter will ever evade—  
+The cursed keeper of Eventide Manor.
 
-But for those with hearts set on riches
-Who think love and remorse are just for bitches
-They might be interested to know of the treasure
-Accumulated over years of Elven measure^[Meaning years of elven life.]
-Hidden deep within Elventide Manor
+Yet some, with hearts of greed and stone,  
+May seek the treasure she guards alone—  
+Ancient riches and artifacts grand,  
+Gathered over years by elven hand,  
+Hidden deep within Eventide Manor.
 
-Gems and jewels, gold and platinum
-Arcane artifacts and magic factotum
-If your heart is of stone, cruel and cold
-Perhaps you're enticed, clever and bold
-You're not afraid of Eventide Manor
+If your heart is cruel, bold, and cold,  
+Perhaps you'll seek the wealth untold.  
+But those who cherish love or grace,  
+Would spare her soul and leave this place,  
+And stay far from Eventide Manor.
 
-But for those who love, or value their life
-And perhaps know of struggle and strife
-They will leave Elwyn to mourn her fate
-And think better than to take the bait
-They should stay away from Eventide Manor
-
-That is my story, vicious and true
-Shake off your shivers and don't let'em stew
-You're safe and sound with nothing to fear
-So finish your ale and be of good cheer
-But never forget the haunting of Eventide Manor
+So heed my story, vicious and true,  
+Shake off the shivers that cling to you.  
+You’re safe for now, with nothing to fear,  
+Finish your ale, and be of good cheer,  
+But never forget the haunting of Eventide Manor.
