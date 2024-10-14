@@ -35,10 +35,10 @@ Elwyn caught them, entangled as one,
 In rage, she struck until they were done—  
 The fateful fury of Eventide Manor.
 
-With blood and blade, she ended their vow,  
-Chopping them both with a scarlet plow.  
-She painted the walls with crimson splendor
-Drawn from those trying to apprehend her
+With blade and bludgeon she slashed and slew,  
+None could stop what would ensue
+She painted the walls with crimson splendor,
+With the blood of those sent to apprehend her
 The grisly tale of Eventide Manor.
 
 Poor Elwyn, now lost to despair,  
