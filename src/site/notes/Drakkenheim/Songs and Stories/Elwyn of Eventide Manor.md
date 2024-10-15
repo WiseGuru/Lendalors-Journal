@@ -56,7 +56,7 @@ The cursed keeper of Eventide Manor.
 Yet some, with hearts of greed and stone,  
 May seek the treasure she guards alone;
 Ancient riches and artifacts grand,  
-Gathered over years by elven hand,  
+Gathered over years by Elven hand,  
 Hidden deep within Eventide Manor.
 
 If your heart is cruel, bold, and cold,  
