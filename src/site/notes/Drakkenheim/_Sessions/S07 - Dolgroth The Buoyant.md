@@ -10,7 +10,7 @@
 		1. [[Drakkenheim/_Players/Lendalor Thugijak\|I]] stick a holy-water vial attached to a pull-string into his noggin, so if he gets abrasive we can just let it rip
 		2. He acts as a *familiar* [[Drakkenheim/_Players/Echo Starcaller\|Echo]] while in our company
 	4. [[Drakkenheim/NPCs/Dolgroth\|He]] leads us back to the campfire, where we turn north
-	5. While we adventure, I recount the story of [[Drakkenheim/Songs and Stories/Elwyn of Eventide Manor\|Elwyn of Eventide Manor]]
+	5. While we adventure, I recount the story of [[Drakkenheim/Songs and Stories/The Haunting of Eventide Manor\|The Haunting of Eventide Manor]]
 2. We disentangle ourselves from the [[Drakkenheim/NPCs/Rat Prince\|Rat Prince]]
 	1. We sneak up and discover the rats laying in ambush
 	2. In a moment of inspiration, [[Drakkenheim/_Players/Lendalor Thugijak\|I]] (with no small help from [[Drakkenheim/NPCs/Dolgroth\|Dolgroth]]) convince them that we are emissaries of their god!
