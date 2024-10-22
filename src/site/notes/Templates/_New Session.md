@@ -5,6 +5,6 @@
 
 # S
 
-[[Drakkenheim/_Sessions/Missions\|Our current missions.]]
+[[_Sessions/Missions\|Our current missions.]]
 
 ## Session Summary
