@@ -15,7 +15,7 @@ Original song written by [[_Players/Lendalor Thugijak\|Lendalor]], from [[_Sessi
 
 Realized by [Erik Akopyan.](https://www.fiverr.com/erikakopyan?source=order_page_user_message_link)
 
-<iframe src="https://drive.google.com/file/d/1g7L4xLA3X-sU2gqRmpVGjsIO5zCwbuJf/preview" width="480"></iframe>
+<iframe src="https://dl.dropbox.com/scl/fi/ygivro6hu40mwyxd89mie/The-Haunting-of-Eventide-Manor.wav?rlkey=7fat7m4ps9actvoocdnwvo3se&st=okml1rog"></iframe>
 
 Gather round, friends, I'll tell you a tale;
 Send the children to bed for this dark regale.
