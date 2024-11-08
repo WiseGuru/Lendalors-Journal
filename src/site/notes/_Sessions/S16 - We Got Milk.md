@@ -16,16 +16,16 @@
 2. Let the fight begin!
 	1. We come in HOT at the start, getting in a couple good hits on [[Gunog\|Gunog]]
 		1. We learn that people with [[Creatures/Spine Worm\|Spine Worm]]s might not be susceptible to charm
-		2. Kreya (the orc with the [[Creatures/Spine Worm\|Spine Worm]]) charges me and wacks me good with her sword
+		2. [[NPCs/Kreya\|Kreya]] (the orc with the [[Creatures/Spine Worm\|Spine Worm]]) charges me and wacks me good with her sword
 			1. Then she whips her "cape" around and it sticks me with a little spike!
 		3. [[_Players/Weela Ewidlyr\|Weela]] and Gunog are locked in combat, darting in and out of range!
 	2. We clean house, and here are the highlights
 		1. [[_Players/Weela Ewidlyr\|Weela]] wins the title of MVP with a Flaming Sphere, chasing our foes around the field while dancing blades with Gurog
 			1. She also casts an illusion such that the boundary looked further away
-			2. Seriously wounded, Kreya charged me, overshot, and went out of bounds.
+			2. Seriously wounded, [[NPCs/Kreya\|Kreya]] charged me, overshot, and went out of bounds.
 		2. [[_Players/Argoth Calamenthe\|Argoth]] shot Scorching Ray into each of them
 		3. [[_Players/Lendalor Thugijak\|I]] looked dashing, hurled an oil flask at the burning Mirabelle, and viciously mocked Gorug
-3. Kreya asks about my jarred symbiote, but we agree to meet at [[Smee's Palace\|Smee's Palace]] before we leave
+3. [[NPCs/Kreya\|Kreya]] asks about my jarred symbiote, but we agree to meet at [[Smee's Palace\|Smee's Palace]] before we leave
 4. [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]] has a little heart-to-heart with [[_Players/Weela Ewidlyr\|Weela]]
 5. A [[Mythological Figures/The Queen of Thieves\|mysterious stranger]] was watching us while we fought, and was waiting for us in the lobby of a building
 	1. She appears as a human, but shifts her appearance to look like [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]], and [[Luna\|Luna]] from [[_Players/Argoth Calamenthe\|Argoth]]'s past, and indicates that [[_Players/Echo Starcaller\|Echo]] is safe, and changes into the shapes of my parents

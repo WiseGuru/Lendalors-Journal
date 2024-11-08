@@ -11,7 +11,7 @@
 | [[NPCs/Oscar Yoren\|Oscar Yoren]] Brain Heist         | [[NPCs/Rehani Miblepebble\|Rehani Miblepebble]]                                  |        | [[_Sessions/S10 - Meeting the Tiger Monarch\|S10 - Meeting the Tiger Monarch]] |                  | Prepaid us with 300GB in gems.       |
 | Learn more about parasites          | [[NPCs/Knight Captain Theodore Marshall\|Theodore Marshall]] |        | [[_Sessions/S09 - The Straps are a Lie\|S09 - The Straps are a Lie]]      |                  |                                      |
 | Investigate [[Items of Interest/Heinrich's Orders\|Heinrich's Orders]]   | Note found at the [[Locations/Landmarks/Black Ivory Inn\|Black Ivory Inn]]                   |        | [[_Sessions/S14 - Lichs All the way Down\|S14 - Lichs All the way Down]]    |                  |                                      |
-| Meet with Kreya                     | [[NPCs/Kreya\|Kreya]]                                               |        | [[_Sessions/S16 - We Got Milk\|S16 - We Got Milk]]               |                  |                                      |
+| Meet with [[NPCs/Kreya\|Kreya]]                     | [[NPCs/Kreya\|Kreya]]                                               |        | [[_Sessions/S16 - We Got Milk\|S16 - We Got Milk]]               |                  |                                      |
 
 
 
