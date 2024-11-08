@@ -3,8 +3,6 @@
 ---
 
 
-# S12 - A Kevin Unclear
-
 [[_Sessions/Missions\|Our current missions.]]
 
 ## Session Summary
@@ -38,7 +36,7 @@ Turns out [[_Players/Weela Ewidlyr\|Weela]] actually grew up around here in Sout
 	2. A couple of observations as we walk in
 		1. Many people of different factions, all hanging out
 		2. No one objects to [[_Players/Argoth Calamenthe\|Argoth]]'s meat puppet
-		3. The music is being played by an amazing musician named [[Miss Charlotte\|Miss Charlotte]]
+		3. The music is being played by an amazing musician named [[NPCs/Miss Charlotte\|Miss Charlotte]]
 			1. Child prodigy, untaught, one of the best (if not THE best) pianists in the world.
 	3. I walk up to [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]] at the bar and try to start a conversation with him, but he is not picking up what I'm putting down.
 		1. Doesn't get a rise out of anything, no major interaction, even when I mention [[Mythological Figures/The Queen of Thieves\|The Queen of Thieves]]

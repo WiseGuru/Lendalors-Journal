@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/s15-there-s-a-lotta-bars-here/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/sessions/s15-there-s-a-lotta-bars-here/","noteIcon":""}
 ---
 
-
-# S15 - There's a lotta bars here
 
 [[_Sessions/Missions\|Our current missions.]]
 
 ## Session Summary
-1. We arrive at [[Buckledown Row\|Buckledown Row]], and [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]] tells us about [[Mythological Figures/The Queen of Thieves\|The Queen of Thieves]]
+1. We arrive at [[Locations/Buckledown Row\|Buckledown Row]], and [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]] tells us about [[Mythological Figures/The Queen of Thieves\|The Queen of Thieves]]
 	1. Before we enter, we need to drop a gold coin in the well
 		1. When we go there, [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]] drops in a whole bag of coins
 		2. We hear the coins land on a huge pile of coins and gems
@@ -34,5 +32,5 @@
 	4. [[Last Bar\|Last Bar]]
 		1. [[Rose Carver\|Rose Carver]] is the proprietor and leader of [[Rose's Thorns\|Rose's Thorns]]
 	5. [[Rose Carver\|Rose Carver]] takes us to the fighting pits where we meet up with that group who we stole from and blamed the elves!
-	6. We meet [[Kreya\|Kreya]], who claims to know me
-		1. While the name is very common among [[History/Orc Tribes/The Danaus Nation\|The Danaus Nation]], she also has an attached [[Creatures/Symbiote\|Symbiote]] appearing as a cape
+	6. We meet [[NPCs/Kreya\|Kreya]], who claims to know me
+		1. While the name is very common among [[History/Orc Tribes/The Danaus Nation\|The Danaus Nation]], she also has an attached [[Creatures/Spine Worm\|Spine Worm]] appearing as a cape

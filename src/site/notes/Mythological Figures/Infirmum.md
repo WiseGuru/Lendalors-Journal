@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mythological-figures/infirmum/","noteIcon":""}
 ---
 
-Vivid description: The orc Outsider God of disease
+Vivid description: The [[Mythological Figures/Orcish Pantheon\|orcish]] *Outsider God* of disease.
 Stale description: 
 Symbology: 
 Affiliates: 

@@ -20,7 +20,7 @@
 		- The pilgrimage is a personal journey of determination
 		- Those brave enough to reach the crater and return are blessed, coming out healthier with the [[Artifacts and Mythic Items/Delirium\|Delirium]]
 			- However, it is a lethal journey.
-			- It all frankly reminds me of the [[Mythological Figures/Orcish Gods\|Orcish Gods]]
+			- It all frankly reminds me of the [[Mythological Figures/Orcish Pantheon\|Orcish Pantheon]]
 			- The [[Artifacts and Mythic Items/Delirium\|Delirium]] crystals puncture their hearts, and an *octarine* light can sometimes be seen emanating from the "successful" pilgrims
 		- The more overcome someone is with contamination, the more likely they are to have a vision
 - We decide to press on in search of [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]], heading up to the [[Locations/Landmarks/Black Ivory Inn\|Black Ivory Inn]]

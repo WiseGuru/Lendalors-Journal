@@ -21,8 +21,7 @@
 3. He's got a mission for us
 	1. Go to the [[Locations/Landmarks/Black Ivory Inn\|Black Ivory Inn]] and rescue [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]]
 		1. The same *Kevin* that [[_Players/Weela Ewidlyr\|Weela]] knows who got sucked into the [[Factions/The Queen's Men\|The Queen's Men]]
-		2. Once 
-	2. [[The Padlock Tavern\|The Padlock Tavern]] [[Buckledown Row\|Buckledown Row]]
+	2. Meet him at [[The Padlock Tavern\|The Padlock Tavern]] in [[Locations/Buckledown Row\|Buckledown Row]]
 4. The bastard [[NPCs/Blackjack Mel\|Barkjark Mar]] finally leaves
 5. We decide to continue on to the [[Factions/The Drakken Guard\|The Drakken Guard]] camp
 	1. They appear to be experimenting with a strange new contraption
@@ -40,8 +39,8 @@
 		2. [[NPCs/Lucretia Methias\|Lucretia Methias]] "predicted" the explosion
 			1. She made this prediction four separate times, and it just came through once
 	3. Wants to reunite the artifacts of [[Mythological Figures/Saint Vitruvio\|Saint Vitruvio]] to help restore the city
-7. [[NPCs/Knight Captain Theodore Marshall\|Theodore Marshall]] warns us of a new kind of [[Creatures/Symbiote\|parasite]]/infection
-	1. Tells about a man who had a centipede-[[Creatures/Symbiote\|parasite]] thing latched onto his spine
+7. [[NPCs/Knight Captain Theodore Marshall\|Theodore Marshall]] warns us of a new kind of [[Creatures/Spine Worm\|parasite]]/infection
+	1. Tells about a man who had a centipede-[[Creatures/Spine Worm\|parasite]] thing latched onto his spine
 	2. He and [[NPCs/High Flame Keeper Ophelia Reed\|Ophelia]] lead us into a kind of jail
 	3. We find a man, restrained, wearing nothing but paints with what look like straps
 		1. He's chanting "pleasure, pain, pleasure, pain, pleasure, pain"
@@ -50,7 +49,7 @@
 8. Orcish exchange
 	1. After everyone else has left the tent, [[_Players/Lendalor Thugijak\|I]] hear the victim whisper something
 		1. I get closer, and it sounds like he's saying the word "mercy" in orcish, and he points at the fetish of [[Mythological Figures/Luthic\|Luthic]] I have under my shirt
-		2. He says it with derision, like [[Mythological Figures/Orcish Gods\|another orc might]]
+		2. He says it with derision, like [[Mythological Figures/Orcish Pantheon\|another orc might]]
 	2. Outsider god of disease [[Mythological Figures/Infirmum\|Infirmum]]
 		1. Something something leech
 		2. He was a jerk, I don't like him. 
