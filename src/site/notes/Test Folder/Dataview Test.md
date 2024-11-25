@@ -4,8 +4,10 @@
 
 
 
-| embed(link(meta(char_token).path))          | file.link                                         |
-| ------------------------------------------- | ------------------------------------------------- |
-| ![[NPCs/Miss Charlotte\|Miss Charlotte]] | [[Test Folder/Fake Character\|Fake Character]] |
+| char_token                                                        | file.link                                         |
+| ----------------------------------------------------------------- | ------------------------------------------------- |
+| This is the part where you [[Test Folder/Fake Character\|Fake Character]] and bleed to death! | [[Test Folder/Fake Character\|Fake Character]] |
 
 { .block-language-dataview}
+
+
