@@ -14,26 +14,23 @@
 		1. This is interesting, because in [[_Sessions/S10 - Meeting the Tiger Monarch\|S10 - Meeting the Tiger Monarch]], [[NPCs/Rehani Miblepebble\|Rehani Miblepebble]] said he probably already worked for [[Mythological Figures/The Queen of Thieves\|The Queen of Thieves]]...
 2. We return to [[Locations/Emberwood\|Emberwood]]
 	1. [[_Players/Argoth Calamenthe\|Argoth]] gets 400GP from the [[Locations/Landmarks/Eventide Manner\|Eventide Manner]] traps and 3 or 4 health potions
-		1. Also a golden cloth... unclear on selling and cost
-	2. [[_Players/Lendalor Thugijak\|I]] meet up with [[NPCs/Kreya\|Kreya]] in the [[Locations/Landmarks/Skull and Sword\|Skull and Sword]]
+		1. Also a golden cloth... unclear on selling and cost, but it's going toward upkeep of the manor.
+	2. [[_Players/Lendalor Thugijak\|I]] meet up with [[NPCs/Kreya\|Kreya]] in the [[Locations/Landmarks/Skull and Sword\|Skull and Sword]]^[[[Weela Ewidlyr\|Weela]] and [[_Players/Echo Starcaller\|Echo]] come along, and they hang out with [[Gurog\|Gurog]], but I guess they were just listening in and not a ton happened.]
 		1. She is a member of [[History/Orc Tribes/The Danaus Nation\|The Danaus Nation]]
-			1. They are not worshiphers of the outsider gods, they are [[Factions/Defiers\|Defiers]]
-				1. There are three layers; heretics, dissenters, and iconoclasts
+			1. They are not worshippers of the outsider gods; they are [[Factions/Defiers\|Defiers]]
+				1. There are three levels; Dissenters, Heretics, and Iconoclasts
 				2. She is a Heretic, and has been one for many years
 		2. [[Mythological Figures/Infirmum\|Infirmum]] is considered an "easier" outsider to defy
 		3. When one takes on a challenge by the gods, they can become corrupted
 			1. Similarly, [[NPCs/Kreya\|Kreya]] believes that symbiotes others have gained in [[Locations/Drakkenheim\|Drakkenheim]] were already corrupted
-				1. The ones we see are maybe not of pure infirmum, but something else trying to assume control
+				1. The ones we see are maybe not of pure [[Mythological Figures/Infirmum\|Infirmum]], but something else trying to assume control
 		4. Symbiotes take on different forms, depending on where it is latched
 			1. Spine worms
-				1. Can basically function as hands
-					1. Can lift up to 50 pounds
-					2. Can't do anything that requires precision or wield weapons
-					3. Melee weapons
+				1. Basically functions as a clumsy set of helping hands
 			2. The Gibbering Limb
-				1. Replaces one of your limbs with the symbiote, makes you stronger, but can detach
+				1. Replaces one of your limbs with the symbiote, making the host stronger
 			3. Widow's Blades
-				1. Like [[NPCs/Kreya\|Kreya]]'s, form tremendous boney wings
+				1. Like [[NPCs/Kreya\|Kreya]]'s, form tremendous boney wings that enhance mobility
 		5. After due consideration (and a couple questions), [[_Players/Lendalor Thugijak\|I]] decide to take on a [[Creatures/Symbiote\|Symbiote]] and pursue a challenge!
 3. We leave [[Locations/Emberwood\|Emberwood]] and head for [[NPCs/Reed Manor\|Reed Manor]], and en route, fight a Chimera
 	1. The terrifying beast tried to stalk us from the roof tops, but [[_Players/Weela Ewidlyr\|Weela]] spotted it
