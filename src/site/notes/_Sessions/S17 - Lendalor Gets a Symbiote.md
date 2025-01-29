@@ -8,8 +8,10 @@
 [[_Sessions/Missions\|Our current missions.]]
 
 ## Session Summary
-1. There was some time between S16 and S17, so we were treated to a nice summary and a story from [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]]'s history 
+1. There was some time between S16 and S17, so we were treated to a nice summary and a story from [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]]'s history and other tid-bits
 	1. [[NPCs/Kreya\|Kreya]] told me to meet with her at the [[Locations/Landmarks/Skull and Sword\|Skull and Sword]] in [[Locations/Emberwood\|Emberwood]]
+	2. [[Mythological Figures/The Queen of Thieves\|The Queen of Thieves]] wants to recruit [[NPCs/Oscar Yoren\|Oscar Yoren]] to work for her, where he currently works for [[Factions/The Hooded Lanterns\|The Hooded Lanterns]]
+		1. This is interesting, because in [[_Sessions/S10 - Meeting the Tiger Monarch\|S10 - Meeting the Tiger Monarch]], [[NPCs/Rehani Miblepebble\|Rehani Miblepebble]] said he probably already worked for [[Mythological Figures/The Queen of Thieves\|The Queen of Thieves]]...
 2. We return to [[Locations/Emberwood\|Emberwood]]
 	1. [[_Players/Argoth Calamenthe\|Argoth]] gets 400GP from the [[Locations/Landmarks/Eventide Manner\|Eventide Manner]] traps and 3 or 4 health potions
 		1. Also a golden cloth... unclear on selling and cost

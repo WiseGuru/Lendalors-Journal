@@ -30,4 +30,4 @@
 5. A [[Mythological Figures/The Queen of Thieves\|mysterious stranger]] was watching us while we fought, and was waiting for us in the lobby of a building
 	1. She appears as a human, but shifts her appearance to look like [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]], and [[Luna\|Luna]] from [[_Players/Argoth Calamenthe\|Argoth]]'s past, and indicates that [[_Players/Echo Starcaller\|Echo]] is safe, and changes into the shapes of my parents
 	2. She says that if we can return a crest that [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]] stole from her and then lost it, all of [[_Players/Echo Starcaller\|Echo]]'s debts will be repaid. 
-	3. [[The Crest\|The Crest]] is in the inner city, a place [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]] would rather work of his debt for the rest of his life than return to. So, a nice place for a picnic!
+	3. [[The Crest\|The Crest]] is in the inner city, a place [[NPCs/Kevin Ewidlyr\|Kevin Ewidlyr]] would rather work off his debt for the rest of his life than return to. So, a nice place for a picnic!
