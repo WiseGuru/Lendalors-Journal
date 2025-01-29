@@ -33,4 +33,4 @@
 		1. [[Rose Carver\|Rose Carver]] is the proprietor and leader of [[Rose's Thorns\|Rose's Thorns]]
 	5. [[Rose Carver\|Rose Carver]] takes us to the fighting pits where we meet up with that group who we stole from and blamed the elves!
 	6. We meet [[NPCs/Kreya\|Kreya]], who claims to know me
-		1. While the name is very common among [[History/Orc Tribes/The Danaus Nation\|The Danaus Nation]], she also has an attached [[Creatures/Spine Worm\|Spine Worm]] appearing as a cape
+		1. While the name is very common among [[History/Orc Tribes/The Danaus Nation\|The Danaus Nation]], she also has an attached [[Creatures/Symbiote\|Symbiote]] appearing as a cape

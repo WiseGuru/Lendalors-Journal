@@ -39,8 +39,8 @@
 		2. [[NPCs/Lucretia Methias\|Lucretia Methias]] "predicted" the explosion
 			1. She made this prediction four separate times, and it just came through once
 	3. Wants to reunite the artifacts of [[Mythological Figures/Saint Vitruvio\|Saint Vitruvio]] to help restore the city
-7. [[NPCs/Knight Captain Theodore Marshall\|Theodore Marshall]] warns us of a new kind of [[Creatures/Spine Worm\|parasite]]/infection
-	1. Tells about a man who had a centipede-[[Creatures/Spine Worm\|parasite]] thing latched onto his spine
+7. [[NPCs/Knight Captain Theodore Marshall\|Theodore Marshall]] warns us of a new kind of [[Creatures/Symbiote\|parasite]]/infection
+	1. Tells about a man who had a centipede-[[Creatures/Symbiote\|parasite]] thing latched onto his spine
 	2. He and [[NPCs/High Flame Keeper Ophelia Reed\|Ophelia]] lead us into a kind of jail
 	3. We find a man, restrained, wearing nothing but paints with what look like straps
 		1. He's chanting "pleasure, pain, pleasure, pain, pleasure, pain"

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/s16-we-got-milk/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/sessions/s16-we-got-milk/","noteIcon":""}
 ---
 
 
@@ -15,8 +15,8 @@
 		1. [[NPCs/Dolgroth\|Dolgroth]] is upset he's called a "Pet," but I tell him it stands for "Powerfully Evil Troublemaker"^[This doesn't calm him down, but I think it's funny.]
 2. Let the fight begin!
 	1. We come in HOT at the start, getting in a couple good hits on [[Gunog\|Gunog]]
-		1. We learn that people with [[Creatures/Spine Worm\|Spine Worm]]s might not be susceptible to charm
-		2. [[NPCs/Kreya\|Kreya]] (the orc with the [[Creatures/Spine Worm\|Spine Worm]]) charges me and wacks me good with her sword
+		1. We learn that people with [[Creatures/Symbiote\|Symbiote]]s might not be susceptible to charm
+		2. [[NPCs/Kreya\|Kreya]] (the orc with the [[Creatures/Symbiote\|Symbiote]]) charges me and wacks me good with her sword
 			1. Then she whips her "cape" around and it sticks me with a little spike!
 		3. [[_Players/Weela Ewidlyr\|Weela]] and Gunog are locked in combat, darting in and out of range!
 	2. We clean house, and here are the highlights

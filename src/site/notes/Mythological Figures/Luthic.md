@@ -5,7 +5,7 @@
 Vivid description: 
 - In stark contrast to the Outsider Gods in the [[Mythological Figures/Orcish Pantheon\|Orcish Pantheon]], Luthic is perceived as an unfortunate necessity, the consequence of failure. She doesn't test the will of orcs like the others do, but heals them if they fail but are not killed.
 Stale description: 
-- A lower-tier *Insider God* (aka, a "True" or divine god) of healing
+- A lower-rung *Insider God* (aka, a "True" or divine god) of healing, known to non-orcs as *Cordia*
 Symbology: 
 Affiliates: 
 Alliances: 

@@ -16,7 +16,7 @@
 			1. “One of the wizards from the AA has offered us a trade, she is the apprentice of Dolgroth, we have an in. Meet her at the clocktower.”
 3. We go in and absolutely destroy the monster
 	1. As the monster dies, the inn fades into the true decay and wreckage of its current state
-4. [[NPCs/Dolgroth\|Dolgroth]] kept talking to the card sharks with the parasites, and he helps me find a jar with a partially decayed [[Creatures/Spine Worm\|parasite]]
-	1. *Still alive; appears to be an external [[Creatures/Spine Worm\|Spine Worm]], not the one that gives strength*
+4. [[NPCs/Dolgroth\|Dolgroth]] kept talking to the card sharks with the parasites, and he helps me find a jar with a partially decayed [[Creatures/Symbiote\|parasite]]
+	1. *Still alive; appears to be an external [[Creatures/Symbiote\|Symbiote]], not the one that gives strength*
 5. We also find 2 fragments of Delerium and a chunk of meteoric iron
 6. The other recent patrons (Balthazar, etc.) are alive, but everyone else is ash.
