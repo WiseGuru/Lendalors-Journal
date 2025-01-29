@@ -15,7 +15,7 @@
 2. We return to [[Locations/Emberwood\|Emberwood]]
 	1. [[_Players/Argoth Calamenthe\|Argoth]] gets 400GP from the [[Locations/Landmarks/Eventide Manner\|Eventide Manner]] traps and 3 or 4 health potions
 		1. Also a golden cloth... unclear on selling and cost, but it's going toward upkeep of the manor.
-	2. [[_Players/Lendalor Thugijak\|I]] meet up with [[NPCs/Kreya\|Kreya]] in the [[Locations/Landmarks/Skull and Sword\|Skull and Sword]]^[[[Weela Ewidlyr\|Weela]] and [[_Players/Echo Starcaller\|Echo]] come along, and they hang out with [[Gurog\|Gurog]], but I guess they were just listening in and not a ton happened.]
+	2. [[_Players/Lendalor Thugijak\|I]] meet up with [[NPCs/Kreya\|Kreya]] in the [[Locations/Landmarks/Skull and Sword\|Skull and Sword]]^[I convinced [[_Players/Weela Ewidlyr\|Weela]] and [[_Players/Echo Starcaller\|Echo]] come along, and they hang out with [[Gurog\|Gurog]], but I guess they were just listening in and not a ton happened.]
 		1. She is a member of [[History/Orc Tribes/The Danaus Nation\|The Danaus Nation]]
 			1. They are not worshippers of the outsider gods; they are [[Factions/Defiers\|Defiers]]
 				1. There are three levels; Dissenters, Heretics, and Iconoclasts
