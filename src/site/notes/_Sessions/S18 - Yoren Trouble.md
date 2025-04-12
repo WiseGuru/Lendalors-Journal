@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/s18-yoren-trouble/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/sessions/s18-yoren-trouble/","noteIcon":""}
 ---
 
 
