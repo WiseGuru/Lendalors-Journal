@@ -14,6 +14,6 @@ Enemies:
 Stats: 
 Home base: 
 Current Location:
-- In [[NPCs/Reed Manor\|Reed Manor]](sp?), in the very far north of Drakkenheim
+- In [[NPCs/Reed Manor\|Reed Manor]] (sp?), in the very far north of Drakkenheim
 Secrets: 
 Tags: #NPC_Drakk 
