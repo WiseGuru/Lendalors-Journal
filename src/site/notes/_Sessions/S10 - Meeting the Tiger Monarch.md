@@ -17,7 +17,7 @@
 			3. And she paid us upfront for the [[NPCs/Oscar Yoren\|Oscar Yoren]] quest
 	2. [[NPCs/Jim Foreign\|Jim Foreign]] is in town, so we need to connect!
 		1. Gives us a [[Artifacts and Mythic Items/Handler's Gauntlet\|Handler's Gauntlet]], which allows 
-		2. Tries to sell one vial of [[Artifacts and Mythic Items/Aquadelirium\|Aquadelirium]] for 800GP to [[_Players/Weela Ewidlyr\|Weela]], she puts together that it was probably made by [[NPCs/Oscar Yoren\|Oscar Yoren]]!
+		2. Tries to sell one vial of [[Artifacts and Mythic Items/Aqua Delirium\|Aqua Delirium]] for 800GP to [[_Players/Weela Ewidlyr\|Weela]], she puts together that it was probably made by [[NPCs/Oscar Yoren\|Oscar Yoren]]!
 			1. We buy it :(
 	3. Sell the Delirium Fragments (100gp each) and slivers (10gp each) for 240GP total
 3. We leave town, and as we're crossing Drakkenheim, hear a scream...

@@ -14,6 +14,7 @@
 | Return [[The Crest\|The Queen's Crest]]         | [[Mythological Figures/The Queen of Thieves\|The Queen of Thieves]]                                | Absolution of [[_Players/Echo Starcaller\|Echo]]'s debts | [[_Sessions/S16 - We Got Milk\|S16 - We Got Milk]]               |                  |                                      |
 | Defier of Gods                                  | [[NPCs/Kreya\|Kreya]] invited me to become a [[Factions/Defiers\|Defier]]    |                                                 | [[_Sessions/S17 - Lendalor Gets a Symbiote\|S17 - Lendalor Gets a Symbiote]]  |                  |                                      |
 | Recruit [[NPCs/Oscar Yoren\|Oscar Yoren]] for [[Factions/The Queen's Men\|The Queen's Men]] | [[Mythological Figures/The Queen of Thieves\|The Queen of Thieves]]                                |                                                 | [[_Sessions/S17 - Lendalor Gets a Symbiote\|S17 - Lendalor Gets a Symbiote]]  |                  |                                      |
+| [[Artifacts and Mythic Items/Eldritch Lily\|Eldritch Lily]] Retrieval                     | [[NPCs/Oscar Yoren\|Oscar Yoren]]                                         |                                                 | [[_Sessions/S18 - Yoren Trouble\|S18 - Yoren Trouble]]                           |                  |                                      |
 
 
 ## Completed Missions
