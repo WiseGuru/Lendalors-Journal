@@ -34,7 +34,7 @@
 5. We propose a trade with [[NPCs/Oscar Yoren\|Oscar Yoren]]
 	1. We will retrieve [[Artifacts and Mythic Items/Eldritch Lily\|Eldritch Lilies]] for him, which are found in [[Locations/Landmarks/The Queen's Garden\|The Queen's Garden]]
 	2. He will draft a set of notes for [[Factions/The Amethyst Academy\|The Amethyst Academy]], which may or may not leave out certain information
-	3. He will teach us how to cast (or create) [[Aqua Expurgo\|Aqua Expurgo]]
+	3. He will teach us how to cast (or create) [[Artifacts and Mythic Items/Aqua Expurgo\|Aqua Expurgo]]
 	4. He will also provide [[Factions/The Hooded Lanterns\|The Hooded Lanterns]] with a fresh batch of potion
 	5. He will also consider accepting a deal with [[Mythological Figures/The Queen of Thieves\|The Queen of Thieves]] for 3x what [[Factions/The Hooded Lanterns\|The Hooded Lanterns]] pay for his notes
 		1. [[NPCs/Petra Lang\|Petra]] was surprised and also upset
