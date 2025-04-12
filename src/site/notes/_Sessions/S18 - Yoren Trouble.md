@@ -23,15 +23,18 @@
 3. [[_Players/Weela Ewidlyr\|Weela]] realizes that the [[NPCs/Oscar Yoren\|Oscar Yoren]] we've been speaking with is a fake, and she stabs him in the stomach!
 	1. The fake Oscar turns out to be [[Marco\|Marco]], and while everyone starts fighting, [[_Players/Lendalor Thugijak\|I]] keep looking for the secret door.
 	2. [[_Players/Argoth Calamenthe\|Argoth]] kills [[Marco\|Marco]] with a *Firebolt*, and [[Gemma\|Gemma]] runs outside to get backup from the zombie ogres
-	3. [[_Players/Weela Ewidlyr\|Weela]] goes all in chasing after them, and gets hit hard by one of the ogres
-	4. [[NPCs/Dolgroth\|Dolgroth]] finds a book of sexy skulls, which coincidentally opens the secret door to the basement
-	5. I descend, find [[NPCs/Oscar Yoren\|Oscar Yoren]], and we reach a truce.
+	3. [[_Players/Lendalor Thugijak\|I]] try to suggest that the ogre go somewhere else, but he sees through me...
+	4. [[_Players/Weela Ewidlyr\|Weela]] goes all in chasing after them, and gets hit hard by one of the ogres
+	5. [[_Players/Argoth Calamenthe\|Argoth]] catches [[Gemma\|Gemma]] on fire, brutally burning but not killing her
+	6. [[NPCs/Dolgroth\|Dolgroth]] finds a book of sexy skulls, which coincidentally opens the secret door to the basement
+	7. I descend, find [[NPCs/Oscar Yoren\|Oscar Yoren]], and we reach a truce.
 4. [[NPCs/Oscar Yoren\|Oscar Yoren]] facts
 	1. He hates the [[Factions/The Amethyst Academy\|The Amethyst Academy]] and believes they are enemies of existence
 		1. He said rude things about [[NPCs/Rehani Miblepebble\|Rehani Miblepebble]] for being associated with them
 	2. He is running low on supplies to make potions
-	3. He is kind of a dick
-5. We propose a trade with [[NPCs/Oscar Yoren\|Oscar Yoren]]
+	3. He recognized [[NPCs/Dolgroth\|Dolgroth]], but couldn't tell us anything about him.
+	4. He is kind of a dick
+5. We strike a trade with [[NPCs/Oscar Yoren\|Oscar Yoren]]
 	1. We will retrieve [[Artifacts and Mythic Items/Eldritch Lily\|Eldritch Lilies]] for him, which are found in [[Locations/Landmarks/The Queen's Garden\|The Queen's Garden]]
 	2. He will draft a set of notes for [[Factions/The Amethyst Academy\|The Amethyst Academy]], which may or may not leave out certain information
 	3. He will teach us how to cast (or create) [[Artifacts and Mythic Items/Aqua Expurgo\|Aqua Expurgo]]
@@ -39,3 +42,5 @@
 	5. He will also consider accepting a deal with [[Mythological Figures/The Queen of Thieves\|The Queen of Thieves]] for 3x what [[Factions/The Hooded Lanterns\|The Hooded Lanterns]] pay for his notes
 		1. [[NPCs/Petra Lang\|Petra]] was surprised and also upset
 6. While we were leaving, he noticed [[Cass\|Cass]] over [[_Players/Weela Ewidlyr\|Weela]]'s shoulder and [[Artifacts and Mythic Items/The Scepter of Saint Vitruvio\|The Scepter of Saint Vitruvio]], and warned her about dealing with entities like [[Cass\|Cass]].
+	1. [[NPCs/Oscar Yoren\|Oscar Yoren]] suggests that if we find anything in the city that [[NPCs/Dolgroth\|Dolgroth]] recognizes that we should look into it.
+	2. [[Gemma\|Gemma]] is recovering on the couch, surrounded by other students, and they are all very put out for some reason.
