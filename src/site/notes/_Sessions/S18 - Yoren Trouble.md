@@ -13,10 +13,10 @@
 	2. The manor is also guarded by cloaked **Chekhov's Zombie Ogres**, and one of them spots us
 		1. He comes over to tell us to bugger off, but [[_Players/Lendalor Thugijak\|I]] use my wit and charm to bluff our way into the manor^[We are health inspecters coming from the city coming to ensure that the potions are being manufactured to industry standards and meet certain criteria for saftery.]
 	3. Inside, we are greeted by an elven woman named [[Gemma\|Gemma]], and I tell her that we're here doing a standard health checkup on [[NPCs/Oscar Yoren\|Mr. Yoren]] and that we must meet with him to ensure his safety.
-		2. We push past her, she panics, and leaves to speak with a guy named [[Marco\|Marco]] in the other room. 
-		3. [[_Players/Argoth Calamenthe\|Argoth]] chats with a familiar cat, and learns that [[NPCs/Oscar Yoren\|Oscar Yoren]] is in the basement
-		4. [[_Players/Weela Ewidlyr\|Weela]] overhears [[Gemma\|Gemma]] and [[Marco\|Marco]] discussing us, and she hears [[Marco\|Marco]] use a secret door to look get the old wizard.
-		5. [[NPCs/Petra Lang\|Petra]] is also there.
+		1. We push past her, she panics, and leaves to speak with a guy named [[Marco\|Marco]] in the other room. 
+		2. [[_Players/Argoth Calamenthe\|Argoth]] chats with a familiar cat, and learns that [[NPCs/Oscar Yoren\|Oscar Yoren]] is in the basement
+		3. [[_Players/Weela Ewidlyr\|Weela]] overhears [[Gemma\|Gemma]] and [[Marco\|Marco]] discussing us, and she hears [[Marco\|Marco]] use a secret door to look get the old wizard.
+		4. [[NPCs/Petra Lang\|Petra]] is also there.
 2. [[NPCs/Oscar Yoren\|Oscar Yoren]] comes in, and I tell him it's time for a health inspection and begin walking him through various exercises to gauge his fitness
 	1. He goes with it for a moment, then gets flustered.
 	2. [[NPCs/Petra Lang\|Petra]] talks with him for a moment, and while they're distracted, I slip outside and climb in through a back window into another room and start looking for the secret door.
