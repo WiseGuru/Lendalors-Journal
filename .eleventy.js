@@ -5,7 +5,7 @@ const matter = require("gray-matter");
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
-const htmlMinifier = require("html-minifier-terser");
+//const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
@@ -501,25 +501,25 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
-  eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
-    if (
-      (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
-      outputPath &&
-      outputPath.endsWith(".html")
-    ) {
-      return htmlMinifier.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
-        collapseWhitespace: true,
-        conservativeCollapse: true,
-        preserveLineBreaks: true,
-        minifyCSS: true,
-        minifyJS: true,
-        keepClosingSlash: true,
-      });
-    }
-    return content;
-  });
+//  eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
+//    if (
+//      (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
+//      outputPath &&
+//      outputPath.endsWith(".html")
+//    ) {
+//      return htmlMinifier.minify(content, {
+//        useShortDoctype: true,
+//        removeComments: true,
+//        collapseWhitespace: true,
+//        conservativeCollapse: true,
+//        preserveLineBreaks: true,
+//        minifyCSS: true,
+//        minifyJS: true,
+//        keepClosingSlash: true,
+//      });
+//    }
+//    return content;
+//  });
 
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
