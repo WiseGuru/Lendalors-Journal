@@ -554,12 +554,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(pluginRss, {
     posthtmlRenderOptions: {
-      //closingSingleTag: "slash",
-      //singleTags: ["link"],
-      // don’t force <link> to be a void element
-      singleTags: [],
-      // you can keep the slash rule for other tags if you like:
       closingSingleTag: "slash",
+      singleTags: ["link"],
     },
   });
 
