@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-folder/fake-character/","metatags":{"description":"Some description","og:title":"This is the title.","og:image":"https://lendalorsjournal.online/img/optimized/iligZVaYZL-700.webp"},"tags":["char_pc","faction_sep"],"noteIcon":"","created":"2026-08-06T13:07:04.054","updated":"2024-03-24"}
+{"dg-publish":true,"permalink":"/test-folder/fake-character/","metatags":{"description":"Some description","og:title":"This is the title.","og:image":"https://lendalorsjournal.online/img/optimized/iligZVaYZL-700.webp"},"tags":["char_pc","faction_sep"],"noteIcon":"","created":"2026-08-06 16:17:04.054","updated":"2024-03-24"}
 ---
 
 [[Test Folder/Dataview Test\|Dataview Test]]
