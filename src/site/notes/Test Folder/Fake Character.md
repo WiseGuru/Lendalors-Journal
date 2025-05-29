@@ -6,6 +6,6 @@
 asdf
 asdfasdf[FakeCharacter](/Attachments/FakeCharacter-1.png)
 
-![FakeCharacter](/img/user/Attachments/FakeCharacter-1.png)
+`![FakeCharacter](/img/user/Attachments/FakeCharacter-1.png)`
 
-![FakeCharacter-1.png](/img/user/Attachments/FakeCharacter-1.png)
+`![FakeCharacter-1.png](/img/user/Attachments/FakeCharacter-1.png)`
