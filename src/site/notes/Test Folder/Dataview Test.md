@@ -3,7 +3,7 @@
 ---
 
 
-
+## Recently planted ideas
 | File                                                              | Modified                    |
 | ----------------------------------------------------------------- | --------------------------- |
 | [[Locations/Landmarks/The Queen's Garden\|The Queen's Garden]] | 7:06 PM - April 11, 2025    |
