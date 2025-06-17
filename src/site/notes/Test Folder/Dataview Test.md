@@ -22,4 +22,7 @@
 { .block-language-dataview}
 
 
-asdfasdf
+| File | Modified |
+| ---- | -------- |
+
+{ .block-language-dataview}
