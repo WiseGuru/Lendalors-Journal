@@ -9,7 +9,7 @@ $$
 \hline
 \textbf{Quantity}       & \textbf{Dimensions}    \\
 \hline
-\text{Young's Modulus}  & $M\,L^{-1}\,T^{-2}$    \\
+\text{Young's Modulus}  & M\,L^{-1}\,T^{-2}    \\
 \hline
 \end{array}
 $$
