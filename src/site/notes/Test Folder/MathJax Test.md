@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-folder/math-jax-test/","noteIcon":""}
+{"dg-publish":true,"permalink":"/test-folder/math-jax-test/","dgShowInlineTitle":true,"noteIcon":""}
 ---
 
 $\frac{1}{0} = \infty$
