@@ -16,3 +16,5 @@ $$
 
 
 sldkfjasdlkfj <i class="svg-icon light" icon-name="sun" aria-hidden="true"></i> aslkdfjasldkfj
+
+sldkfjasdlkfj <i class="svg-icon light" icon-name="sun"></i> aslkdfjasldkfj
