@@ -4,16 +4,14 @@
         {% for imp in dynamics.filetree.beforeTitle %}
             {% include imp %}
         {% endfor %}
-            <a href="/" style="text-decoration: none;">
-                <img src='/img/favicon.svg'
-                    alt="{{meta.siteName}}"
-                    style="max-height: 100%; height: 100px; width: auto; margin: 15px !important; display: block;">
-            </a>
+        <a href="/" style="text-decoration: none;">
+            <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
+        </a>
         {% for imp in dynamics.filetree.afterTitle %}
             {% include imp %}
         {% endfor %}
     </div>
-    
+
     {% if settings.dgEnableSearch === true%}
         {% include "components/searchButton.njk" %}
     {%endif%}
