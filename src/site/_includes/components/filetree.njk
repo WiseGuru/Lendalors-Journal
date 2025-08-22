@@ -36,11 +36,13 @@
         {% for imp in dynamics.filetree.beforeTitle %}
             {% include imp %}
         {% endfor %}
-            <a href="/" style="text-decoration: none;">
-                <img src='/img/filetree.svg'
-                    alt="{{meta.siteName}}"
-                    style="height: 40px; width: auto; margin: 15px !important; display: block;">
-            </a>
+            <div style="display: flex; justify-content: center;">
+                <a href="/" style="text-decoration: none;">
+                    <img src='/img/filetree.svg'
+                        alt="{{meta.siteName}}"
+                        style="height: 40px; width: auto; margin: 15px !important; display: block;">
+                </a>
+            </div>
          {% for imp in dynamics.filetree.afterTitle %}
             {% include imp %}
         {% endfor %}
