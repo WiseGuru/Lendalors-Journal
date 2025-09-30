@@ -39,21 +39,7 @@
         for (let i = 0; i < depth; i++) {
             existing, remaining = getNextLevelNeighbours(existing, remaining);
         }
-
-        // **Modification Start**: Filter nodes based on folders or files
-        const foldersToExclude = ['/Private/', '/AnotherFolder/']; // Add folders to exclude
-        const filesToExclude = ['/Notes/SecretNote.md', '/Notes/AnotherSecret.md']; // Add files to exclude
-
-        nodes = Object.values(existing).filter(n => {
-            // Exclude nodes in specified folders
-            const inExcludedFolder = foldersToExclude.some(folder => n.url.startsWith(folder));
-            // Exclude specified files
-            const isExcludedFile = filesToExclude.includes(n.url);
-            return !inExcludedFolder && !isExcludedFile && !n.hide;
-        });
-
-        // **Modification End**
-
+        nodes = Object.values(existing);
         if (!currentNode.home) {
             nodes = nodes.filter(n => !n.home);
         }
@@ -106,12 +92,12 @@
                 } else {
                     return mutedColor;
                 }
-
+                
             })
             .nodeCanvasObject((node, ctx) => {
                 const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
                 const nodeR = Math.min(7, Math.max(numberOfNeighbours / 2, 2));
-
+                
                 ctx.beginPath();
                 ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false);
                 if (hoverNode == null) {
@@ -123,9 +109,9 @@
                         ctx.fillStyle = mutedColor;
                     }
                 }
-
+                 
                 ctx.fill();
-
+                
                 if (node.current) {
                     ctx.beginPath();
                     ctx.arc(node.x, node.y, nodeR + 1, 0, 2 * Math.PI, false);
@@ -152,7 +138,7 @@
                 node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
                 }
                 hoverNode = node || null;
-
+                
             });
             if (fullScreen || (delay != null && graphData.nodes.length > 4)) {
                 setTimeout(() => {
@@ -175,22 +161,12 @@
             return null;
         }
         graphData = JSON.parse(JSON.stringify(graphData));
-
-        // **Modification Start**: Define folders and files to exclude
-        const foldersToExclude = ['/Private/', '/AnotherFolder/']; // Add folders to exclude
-        const filesToExclude = ['/Notes/SecretNote.md', '/Notes/AnotherSecret.md']; // Add files to exclude
-
-        // Filter out nodes in specified folders or files
-        const hiddens = Object.values(graphData.nodes)
-            .filter((n) => n.hide || foldersToExclude.some(folder => n.url.startsWith(folder)) || filesToExclude.includes(n.url))
-            .map((n) => n.id);
-
+        const hiddens = Object.values(graphData.nodes).filter((n) => n.hide).map((n) => n.id);
         const data = {
-            links: graphData.links.filter((l) => !hiddens.includes(l.source) && !hiddens.includes(l.target)),
-            nodes: Object.values(graphData.nodes).filter((n) => !hiddens.includes(n.id))
-        };
-        return data;
-        // **Modification End**
+            links: JSON.parse(JSON.stringify(graphData.links)).filter((l) => hiddens.indexOf(l.source) == -1 && hiddens.indexOf(l.target) == -1),
+            nodes: [...Object.values(graphData.nodes).filter((n) => !n.hide)]
+        }
+        return data
     }
 
     function openFullGraph(fullGraphData) {
